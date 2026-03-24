@@ -6,7 +6,6 @@
 
 **Course:** Natural Language Understanding 
 
-**Date:** March 2026
 ---
 
 ### Objective
