@@ -327,6 +327,8 @@ performing configurations.
 ![Training Time Comparison](outputs/training_time_comparison.png)
 *Figure 11: Comparison of average training time (Scratch vs Gensim).*
 
+---
+
 ### Interpretation
 
 - **Academic Programs** (red) cluster together; *btech* and *mtech* are
