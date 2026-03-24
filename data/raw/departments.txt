@@ -1,0 +1,1123 @@
+--- CSE Department ---
+Computer Science & Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Academics
+Undergraduate Programs
+Postgraduate Programs
+Programs for Working Professionals
+Doctoral Programs
+Research
+Research Area & Labs
+Projects
+Sponsors & Collaborators
+Compute Resources
+Achievements
+Faculty Achievements
+Student Achievements
+Students
+ACM Student Chapter IITJ
+Outstanding Student Projects
+Placements
+Alumni
+Teams
+PhD Students
+Events
+Webinars
+Students Presentation
+IIT Jodhpur Industry Connect 2022
+Winter School
+Grad Cohort Workshop
+Join Us
+Faculty
+Researchers
+Students
+Contact
+Computer Science & Engineering
+Previous
+Next
+play_arrow
+Welcome to the Department of Computer Science & Engineering
+Computer Science and Engineering, today, plays a major role in transforming every aspect of human life - in addressing social challenges and catalyzing the ongoing wave of the industrial revolution. The department is driven by its commitment to excel in next generation technology development and research. Our mission is to strengthen industry-academia collaborations and prepare our students to contribute to multi-disciplinary projects and R&D for solving problems of national interest.
+Vision
+To be among the top 10 departments in terms of research contributions, practical impact, and applications of Computer Science and Engineering in the country in the next 3 years, and internationally well known in some focused areas in the next 5 years. Some of our missions are to achieve excellence in research in fundamental as well as applied areas of CSE and allied subject for innovative discoveries; develop an academic ecosystem by collaborating; and develop and support the notion of “computing for all” across disciplines at the institute.
+Mission
+Our missions are to achieve excellence in research in fundamental as well as applied areas of CSE and allied subject for innovative discoveries; develop an academic ecosystem by collaborating; and develop and support the notion of “computing for all” across disciplines at the institute.
+(M1) Achieving excellence in research in fundamental as well as applied areas of CSE and allied subjects for innovative discoveries.
+(M2) Develop an academic ecosystem by collaborating within the institute, as well by means of international, national and regional institutes. The collaborations may be fostered by research visits, collaborative projects, joint thesis, internship guidance, research mentoring etc.
+(M3) Develop and support the notion of “computing for all” across disciplines at the institute.
+(M4) Embracing shared dialogue across disciplines and encouraging experiential learning to redefine the contours of traditional Computer Science teaching and learning. Be one of the leading departments in the country for hybrid CSE education.
+(M5) Define and solve real-world problems in collaboration with industry, and
+develop industry- connect by means of research grants/ consultancies, and collaborative projects. Develop Start-up ecosystem in emerging areas of
+computing in collaboration with other departments at IIT Jodhpur.
+(M6) Dissemination of knowledge without physical boundaries, i.e. classroom,
+online and other modes of teaching, to create a workforce which is ready to ethically solve technological challenges of the next generation.
+(M7) Provide thought leadership in public policy and ethics of emerging computing technologies towards building an equitable and ethical society.
+News & Events
+View all news
+Dr. Debasis Das received the DST-NSF Project Award 2025, National Science Foundation (NSF), USA, and the Department of Science and Technology (DST) of India.
+Dr. Debasis Das received NSTC Research Award-2025, National Science and Technology Council(NSTC), Taiwan, National Sun Yat-sen University(NSYSU), Taiwan.
+Swapnil Thatte, Paromita Banerjee, Mayank Vatsa, Richa Singh, Bhanu Duggal, Angshuman Paul submitted an Indian patent on "MFA-U-Net: U-Net with Multi-level Feature Aggregation for Scale-free Medical Image Segmentation" funded by TiH iHub Drishti.
+Highlights
+View all highlights
+PatientVLM Meets DocVLM: Pre-Consultation Dialogue Between Vision-Language Models for Efficient Diagnosis, AAAI 2026:K Lokesh, Uday Agarwal, Abhirama Subramanyam Penamakuri, Apoorva Challa, Shreya K G
+Temporal Object-Aware Vision Transformer for Few-Shot Video Object Detection, AAAI 2026: Yogesh Kumar, Anand Mishra
+DBCoreset: A Density-based Coreset Algorithm for Computationally Efficient Chest X-ray Diagnosis, The 2026 IEEE International Symposium on Biomedical Imaging (ISBI): Jayant Mahawar, Angshuman Paul
+Announcements
+View all announcements
+Ph.D. Admission Result AY 2025-26 SEMESTER II
+List of Shortlisted Candidates for PhD AY 2025-26 SEMESTER-II
+List of provisionally shortlisted candidates for admission to the PhD program July 2025 (PDF)
+Provisionally shortlisted and waitlisted candidates for M.Tech (CSE & AI) (July-2025)
+Rolling Advertisement for admission to Ph.D. Program. (Program Details)
+Rolling Advertisement for faculty positions.
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 20 Feb 2026 - 04:14 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Electrical Engineering ---
+Electrical Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Technical Staff Members
+Faculty Members
+Post Doctoral Fellows
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Research Overview
+Academic Programs
+Regulations
+Undergraduate Program
+Postgraduate program
+Doctoral Program
+Curriculum
+Laboratories
+Calender
+Contact
+Electrical Engineering
+Previous
+Next
+play_arrow
+Welcome to the Department of Electrical Engineering
+The Department of Electrical Engineering primarily focuses on imparting quality education and preparing students to face future technological challenges. The vision of the Department is to enhance the research environment and to innovate in pedagogy to address the challenges of socio-economic and human resource development.
+The Department is committed to engage in high-quality research by Faculty Members and Students, and in the pursuit of excellence in teaching.
+The Department offers B.Tech. in Electrical Engineering with broad range of major and minor specializations and three state-of-the-art M.Tech. programs in Sensors and Internet of Things (SIoT), Cyber Physical Systems (CPS), and Intelligent Communication Systems (ICS).
+The Department also runs dual degree (M.Tech. + Ph.D.) programs in Intelligent Communication Systems, Sensors and Internet of Things (SIoT) and Cyber Physical Systems (CPS) as well as Ph.D. program with a broad range of specializations covering detailed aspects of Microelectronics, Signal Processing, Communication, Microwave & Photonics, Power systems, Control systems etc. The Department is also starting a new Executive MTech Program in Intelligent VLSI Systems (for working professionals) from July 2022.
+The prospective undergraduate and postgraduate students are encouraged to visit the Academic Programs (UG Program, PG Programs and Doctoral Programs) page of the Department to know more about the details of courses offered in the department.
+To know more about the current research themes of the faculty members, the prospective students are encouraged to visit the Research Overview page of the Department. Technology Tracks currently pursued by the Department include emerging and challenging fields that culminate at the intersection of several traditional research areas.
+Current Technology Tracks
+Active collaboration is on-going with organizations like Freescale Semiconductors, Global Foundries, AIIMS Jodhpur, DST, DRDO, and ISRO, to name a few. The Department has been attracting various sponsored projects from R&D organizations since its inception.
+Consolidated (year-wise) cutoffs of last four years  (
+Download file: 342 KB)
+Highlights
+View all highlights
+Ph.D. student Mr. Prabhanshu Yadav won the Best Paper Award in IEEE International Conference on Advanced Networks and Telecommunications Systems
+Dr. Akshay Moudgil Awarded Teaching Excellence Award
+Dr. Rajlaxmi Chouhan awarded IETE - Prof K Sreenivasan Memorial Award 2025 for outstanding performance in teaching
+New Publication: A Compact SIW-Based Co-designed (3.5, 26) GHz MIMO Antenna for Indoor Small-Cell Base Stations
+New Publication: Amar D. Chaudhari, S. Mukherjee, "A Compact SIW-Based Co-designed (3.5, 26) GHz MIMO Antenna for Indoor Small-Cell Base Stations "
+Achievement - Dr. Akshay Moudgil from Electrical Engineering, IIT Jodhpur
+Dr. Akshay Moudgil with a team of more than 100 experts from 57 research institutions worldwide...
+Dr. Suraj Srivastava delivered an invited tutorial on "Sparse Signal Processing in 5G and 6G
+The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)...
+The research proposal has been selected as one of the finalists for the prestigious QIF-2024
+The research proposal titled "Unlocking Spectrum Intelligence: Deep Learning Empowered...
+Dr. Suraj Srivastava has been awarded Member of the Institution of Engineering and Technology
+Dr. Suraj Srivastava (Assistant Professor, Dept. of EE) has been awarded Member of the Institution of IET...
+Dr. Akshay Moudgil delivered an invited research talk on Bioelectronics
+"International Workshop on Semiconductor Devices and Circuits" held at IIT Delhi on 29th Mar 2024...
+Latest News
+View all news
+Result of Ph.D. Admissions AY 2025-26 Semester II
+Consolidated (year-wise) cutoffs of last four years
+List of candidates shortlisted for Ph.D. Admission, 2nd round, AY 2025-26, Semester-I
+Latest Event
+View all events
+Mar
+2026
+Skill Development Program on MATLAB/Simulink and Software-Defined Radio (SDR)...
+Dec
+2025
+Skill Development Program on MATLAB/Simulink and Software-Defined Radio (SDR)-Based Communication Systems Design (21st - 24th December 2025)
+Feb
+2025
+VLSI Test Workshop : The program is intended for the Faculty, UG, and PG students, research scholars, practicing engineers, and people from R & D in the field of VLSI Design.
+Apr
+2024
+Expert Talk by Prof. H.M. Gupta on: Evolution of ICTs: Historical and Indian Context
+Apr
+2024
+Invited Talk by Mr. Tapas Nandy: Cycle of Inter-chip Communication: Past-Present-Future
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 20 Jan 2026 - 01:03 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Mechanical Engineering ---
+Mechanical Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctorial Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Laboratories
+Contact
+Mechanical Engineering
+Previous
+Next
+play_arrow
+Welcome to the Department of Mechanical Engineering
+The Department of Mechanical Engineering at IIT Jodhpur is devoted to quality engineering education and pursuits the excellence in research. It is dedicated to preparing students to face the emerging challenges faced by society. The vision of the Department is to translate its research and to innovate in pedagogy to enable ignited young minds to find technological solutions for upcoming challenges. The Department offers B. Tech. M. Tech. and Ph.D. in Mechanical Engineering within three major domains of Thermofluids, Design, and Smart Manufacturing. The students also have the opportunity to work with an interdisciplinary specialization in emerging areas such as Artificial Intelligence (AI), Internet of things (IoT), Smart Healthcare, and Cyber-Physical Systems (CPS).
+At IIT Jodhpur, mechanical engineers are educated in a way not only to adapt but to define direct change. This is reflected in the portfolio of the current activities of the Department. Faculty members are involved in a wide range of projects in the areas of energy conversion and power systems, heat transfer and fluid mechanics, mechanics of solid, mechanical vibrations, robotics, autonomous unmanned vehicles, design optimization, acoustics and noise control, control systems, rotor dynamics, nanomaterials, biomechanics, bio-inspired thermo-fluids, fluid-structure interaction, etc. to name a few. Additionally, efforts are being made to introduce advanced concepts like smart manufacturing, Industry 4.O, Smart scientific computing techniques, high-performance computing, applications of artificial intelligence, machine learning algorithms, sensors, and IoT as a part of solving interdisciplinary problems requiring mechanical engineering know-how. Keeping a balance between theory and hands-on experience, the Department intends to provide its students with a solid foundation in core as well as emerging areas of mechanical engineering by inspiring critical thinking and nurturing problem-solving skills.
+The department has active collaborations with AIIMS Jodhpur, General Electric, Thermax, DRDO, ISRO, TCS Innovation Lab, TVS Motor Company to name a few.  The department has been attracting various sponsored projects from R&D organizations since its inception.
+Technology Tracks
+Smart Manufacturing and Industry 4.0
+Multiscale Manufacturing
+Processing of Novel Materials
+Fluid Thermal System Design
+Multiphase Flows
+Energy and Sustainability
+Solid Mechanics and Design
+Vibration and Acoustics
+Robotics and Mobility Systems
+Aerodynamics
+Various Tracks
+Mechanical Engineering Building
+Latest News
+View all news
+List of shortlisted candidates for the written test/interview for PhD, AY 2025-26 Semester II (Jan 2026)
+The Department of Mechanical Engineering, IIT Jodhpur, invites applications for the PhD program for the semester commencing in July 2025 (Application deadline 26 June 2025)
+List of Candidates Shortlisted for Written Test and Interview for M.Tech. in Drone and Anti-Drone Technologies Admissions Under Different Categories
+Highlights
+View all highlights
+Thermofluids Engineering
+The Thermofluids Engineering division focuses on research in fluid dynamics, heat transfer, energy systems, multiphase flow...
+Mechanical Design
+The Mechanical Design section focuses on cutting-edge research and development in the following research areas...
+Manufacturing
+The Manufacturing section focuses on innovative research and technological advancements in the following research areas...
+Latest Events
+View all events
+Jul
+2025
+AIR 2025( Advances in Robotics) 7th International Conference of The Robotics Society
+Dec
+2025
+23 ISME International Conference on Recent Advances in Mechanical Engineering
+Dec
+2024
+RAISE-2024 Recent Advances in Sustainable Energy
+Dec
+2023
+FMFP-2023 Conference: The 10th International and 50th National Conference
+Dec
+2025
+The 28th National and 6th International IHMTC-2025 Conference
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 05 Jan 2026 - 11:07 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Civil Engineering ---
+Civil and Infrastructure Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Dissertations
+Journal Publications
+Research Project
+Patents
+MoUs
+Department Data
+Academic Programs
+Programs
+Academic Calendar
+Prospective Students
+Specialization
+Structural Engineering
+Environmental Engineering
+Geotechnical Engineering
+Geological Engineering
+Transportation Engineering
+Computational Laboratory
+Water Resource Engineering Laboratory
+Student
+B.Tech Student
+M.Tech Student
+Ph.D Student
+M.Tech - Ph.D Student
+Alumni
+Contact
+Civil and Infrastructure Engineering
+Previous
+Next
+play_arrow
+Welcome to the Civil and Infrastructure Engineering
+The rapidly urbanizing society and increasing quality of life demand reliable and intelligent infrastructure systems which are capable of catering to the societal needs at different scales – from an individual to the community level. Consequently, the civil and infrastructure industry has undergone profound changes and is constantly evolving. However, the new-age designs and innovations in the civil and infrastructure industry can only be driven by a group of engineering graduates having multidisciplinary training and a sound understanding of emerging technologies. The Department of Civil and Infrastructure Engineering, IIT Jodhpur  esatablished in January 2020. We started academics programs in the academic year 2020-2021. The department offers unique programs that incorporate and integrate the elements of conventional civil engineering with advanced transformative technologies such as artificial intelligence (AI), cyber-physical-systems (CPS), digital twins (DT), and automated management and information systems. Additionally, a major thrust is also planned on the design, implementation, and maintenance of large-scale integrated infrastructure systems across different domains.
+The focus areas of the department are :
+Energy and Environment
+Building Sciences, Safety, and Services
+Applications of AI, IoT and CPS in Civil and Infrastructure Engineering
+Smart and Integrated Infrastructure
+Urban Architecture and Planning
+Construction Technology and Management
+Transportation Engineering
+Structural Engineering
+Geotechnical Engineering
+Water resources Engineering
+Engineering Geology
+Vision
+"The Department strives to be an internationally renowned centre of excellence in education, research, and innovation with a major focus on sustainability and digitalization of infrastructure."
+Missions
+Develop unique courses in the field of Civil and Infrastructure Engineering through advanced UG and PG programs with a  multidisciplinary perspective.
+Establish high quality teaching and research facilities in the areas of smart, resilient, and sustainable infrastructure engineering to foster the needs of society.
+Promote consilient research through application of AI/ML, cyber-physical-systems, digital twin and advanced visualization in the areas of Energy, Environment, Transportation, and Construction.
+Promote innovative and entrepreneurial activities through intellectual property generation and transfer.
+Nurture the potential of students to become future leaders in the Civil Engineering industry for leadership achievements, scientific breakthroughs and social welfare.
+Quick Access
+Department Brochure
+(5.1 MB)
+Academic Calendar
+IITJ at a Glance 2024 (English)
+IITJ at a Glance 2024 (Hindi)
+Highlights
+View all highlights
+Congratulation to Prof. Subhasish Dey for publishing a research paper titled "Hydrodynamics of turbulent flow in channels with submerged flexible vegetation canopy " in Physics of Fluid, Volume 37: Is
+Congratulations to Dr. Sreejith Krishnan for publishing a research article titled "Co-calcination of kaolinitic clay and green liquor dregs to produce supplementary cementitious materials" in Journal
+Congratulation to Prof. Subhasish Dey for publishing a research paper titled "Effects of U-burrow bioirrigation on turbulence characteristics" in Journal of Hydraulic Research
+Congratulations to Mr. Abhishek Jain and his supervisor, Dr. Debanjan Guha Roy, and Co-Supervisor Dr. Trishikhi Raychoudhury for publishing an article titled "Comparative efficacy of raw and modified
+Congratulation to Prof. Subhasish Dey for publishing a research paper titled "Shallow water hydrodynamics: Surge propagation and sill-controlled flows" in Physics of Fluids (Vol.36, Issue 12)
+Congratulations to Mr. Shahiq Ahmad Wani and his supervisor, Dr. Ranju Mohan, for publishing an article titled "Digital payment adoption in public transportation: Mediating role of mode choice segment
+Congratulation to Prof. Subhasish Dey for publishing a research paper titled "The universal two-thirds law of pipeline scour" in Physics of Fluid, Volume 37: Issue 4
+Congratulation to Prof. Subhasish Dey for publishing a research paper titled "Hydrodynamics of a rigid submerged vegetated flow" in Physics of Fluid, Volume 37: Issue 4
+News & Newsletter
+View all news
+Ph.D. Admissions Result AY 2025-26 Semester II (Dec 2025)
+Shortlisted Candidates for written Test and/or  Interview of Ph.D. Program AY 2025-26 sem II
+Ph.D. Admission (Re-open Announcement)
+List of candidates Provisionally Shortlisted for M.Tech-Part Time Online Program (Bridge Engineering)
+Result of Ph.D. Admissions Second Round, AY 2025-26 Semester I (July 2025)
+Latest Events
+View all events
+Jul
+2023
+Congratulations Dr. Bhupendra for SERB International Research Experience (SIRE) for the year 2023-2024
+Jan
+2023
+A Indo-UK workshop on "Design of Foundation Systems for Offshore Wind Turbines - Indian Perspective"
+Apr
+2022
+A short-term online course on "Smart and Digitalized infrastructure Systems"
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 19 Nov 2025 - 12:18 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Chemistry ---
+Chemistry | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Faculty by Research Area
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Post Graduate Program
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Events
+Webinar Series
+ChemMeet 2024
+Seminar
+Laboratories
+Teaching Laboratories
+Facilities
+About Facilities
+Booking for Internal Sample
+Booking for External Sample
+Contact
+Chemistry
+Previous
+Next
+play_arrow
+Welcome to Department of Chemistry & Head's Message
+A warm welcome to the Department of Chemistry at IIT Jodhpur, which was established in 2015. Since the inception, the department has taken major strides forward in teaching, research and technology development. Our department offers a variety of academic programs including M.Sc. (2 Years), M.Sc. (Chemistry)-M.Tech. (Materials Engineering) with Specialization, BS in Chemistry with Specialization (4 years), and Ph.D. programs. We also provide core and elective courses in chemistry and related fields for undergraduate B.Tech. engineering students. The department offers Chemistry courses for 4-year Integrated B.Sc.-B.Ed. Program (ITEP), which is in alignment with NEP 2020 to support teacher preparation and foster professional development.
+Besides teaching, the Department is striving to be acknowledged for excellence in research and technology. Our goal is to foster an environment where everyone can thrive, reach their full potential, and contribute to cutting-edge scientific advancements. We have the latest state of the art basic teaching laboratories and several thematic research laboratories. Our current faculty strength is 19 and they are carrying out research activities in all major areas of chemical sciences, namely, organic synthesis and catalysis, chemical biology, main group chemistry and organometallics, nanomaterials, spectroscopy and chemical dynamics, biophysical chemistry and computational chemistry. The cutting-edge research in the thrust areas by our faculty members are published in international peer-reviewed journals of well-repute. In short IIT Jodhpur Chemistry department is where Chemistry meets Technology through Collaboration, Communication and Cooperation. I encourage the future aspirants to get enrolled at IIT Jodhpur and wish you all the very best in your future endeavours. Thank you.
+The thrust areas in which research is being actively carried are given below.
+Quick Links
+Ph.D Admission January 2026 Apply Now
+Course Type For Online Registration Of M.Sc. Program
+(470 KB)
+LHB Booking
+CDIF Equipment Booking
+Department Seminar Hall Booking
+External users: sample analysis services
+(9.8 MB)
+Latest News
+View all news
+Samapika Sahu, a research scholar under the supervision of Prof. Ananya Debnath, has been awarded Third Prize in the Chemical Sciences category at the SARANSH Thesis Competition
+Congratulations to Dr Sandip Murarka for receiving the CRSI Bronze Medal
+Congratulations to Dr Sandip Murarka on his appointment as an Associate Editor of RSC Advances, a prestigious journal published by the Royal Society of Chemistry (RSC)
+Highlights
+View all highlights
+C-H alkylation of heterocycles via light-mediated palladium catalysis. S. Senapati, S. K. Hota, L. Kloene, C. Empel,* S. Murarka*, and R. M. Koenigs* Angew.
+Chem. Int. Ed. 2025, 64, e202417107.
+Light Harvesting Complex II Resists Non-Bilayer Lipid-Induced Polymorphism in Plant Thylakoid Membranes via Lipid Redistribution, Avinash Garg and Ananya Debnath,
+The Journal of Physical Chemistry Letters. 2024.
+Copper-Photoredox-Catalyzed Divergent Strategy for the Site-selective Arylation and Alkylation of Glycines and peptides. P. Meher, M. S. Prasad, K. R. Thombare, and S. Murarka* ACS Catal.
+2024, 14, 18896-18906.
+Bench-Stable Low-Valent Chromium Catalysts for Hydrogenation of CO2, Bicarbonate, and Inorganic Carbonates to Formate.
+Singh T.; Gutal A.; Regina A.; Banerjee A.; Paranjothy M.; Chakraborty S.; ACS Catal. 2024, 14, 14958–14965. DOI: 10.1021/acscatal.4c04492
+Designing a Phenalenyl-based Dinuclear Ni(II) Complex: An Electrocatalyst with Two Single Ni Sites for Oxygen Evolution Reaction (OER).
+Kamboj, N. and Metre, R. K.
+Inorg. Chem., 2024,63, 9771-9785
+Agarwala, P., Pal, A., Hazra, M. K., Sasmal, D. K., Differential Mg2+ Deposition on DNA Holliday Junctions Dictates the Rate and Stability of Conformational Exchange (Just accepted in Nanoscale), 2024
+Latest Events
+View all events
+Mar
+2025
+Departmental seminar by Prof. Rene M Koenigs
+Jan
+2025
+Navigating PhD and Beyond, IIT Jodhpur
+Oct
+2024
+In-house symposium, "ChemMeet-2024"
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 12 Feb 2026 - 02:19 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Physics ---
+Physics | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Research
+Publication
+Research Groups
+Ongoing Projects
+Completed Projects
+Collaborations
+Laboratories
+Contact
+Physics
+Previous
+Next
+play_arrow
+Welcome To The Department of Physics
+The subject of Physics is inherently a natural science subject based on strong theoretical foundations and experimental findings. The subject closely intersects with almost all the branches of engineering and the current research activities of physics across the world made a huge impact on new, advanced, and emerging technologies. Keeping these facts into consideration, our Department is committed to imparting high-quality education based on a strong academic curriculum comprising elements of theoretical concepts, laboratory experiments, and most importantly hands-on experiments. The graduates of the Department are expected to have deep insight into the domain of Physics together with a strong bent of mind to pursue cutting-edge research and translate it into technology.
+We offer a broad range of undergraduate and postgraduate programs. Our
+4 Year BS in Physics with specialization
+is a technology-oriented science program and offers specialization in physics-based emerging technology domains. The program also has the flexibility to convert into a
+5 Year BS + M.Tech. dual degree
+course. At the postgraduate level, we have four-degree programs viz.
+M.Sc. (2 years), M.Sc.-M.Tech Dual Degree
+in Physics and Materials Engineering. The dual degree program also has additional two specializations namely Functional Materials and Computational Materials Engineering. Finally, our
+Ph.D. program
+empowers scholars to pursue research in various domains.
+Research Areas
+The department has a very good blend of highly qualified young and experienced faculty members in the areas of advanced physics. The department is also equipped with a number of thematic laboratories which enable the students to carry out high-end and impactful theoretical and applied research in the following focus areas:
+Research Areas
+High Energy Physics and Astrophysics
+Theoretical research in domains; Flavour physics, Astrophysics, Particle physics, Cosmology, and Dark matter and Dark energy. Experimental research in flavor physics with the Belle II Experiment.
+Quantum Physics
+Open Quantum Systems, Theoretical and Experimental aspects of Quantum Optics & Quantum Information, Quantum Field Theory, Quantum Statistical Mechanics and Quantum Cosmology.
+Condensed Matter and Plasma Physics Group
+Experimental and Theoretical Research on Molecular electronics, Organic electronics, Cold Plasma Technologies and applications, Energy Storage, Solar cells, Light emitting diodes, Solar water splitting, Soft Matters, Statistical Physics, Computational Physics, Multiscale Modelling, Phase ordering dynamics, Glasses, Amorphous solids, Polymers and Solid Electrolyte materials, Physics of Living Matter, Active Matter Physics, Functional Materials, Materials Design and Engineering, Nanomagnetism and Multiferroics.
+Optics and Photonics
+Theoretical and Experimental Research in Nano Photonics, Light in disordered media, Ultrafast Optics, Nonlinear Optics, Topological Singularities, Specially Optical Fibers, Photonic sensors, Time Dynamic systems, Terahertz generation and application, Transient and Steady-state Spectroscopy, Bound state in the continuum, Disorder Photons and Light Matter Interaction and Ceramic materials for high energy laser applications.
+Candidates interested in pursuing Ph.D., please go through the Research groups and visit the individual
+faculty's home pages
+. The
+application can be submitted with this link
+Infrastructure
+The department is equipped with high-end research equipment which includes SQUID magnetometer, Physical Property Measurement Systems (PPMS), Raman Spectrometer, and Scanning Tunnelling Microscope (STM) besides a host of other advanced characterization equipment which is available at the Centre for Research & Development of Scientific Instruments (
+CRDSI
+Collaborations
+The department is having close collaboration with a number of National and International agencies including DRDO, ISRO, DAE, CSIR, DST, and SERB. Department Faculties also have collaborations with various Institutes of National and International repute, namely TIFR, IIT Bombay, IIT Gandhinagar, IIT BHU, Central University of Rajasthan, University of Montreal, Canada, University of Warsaw Poland, Brookhaven National Laboratory USA, ETH Zurich Switzerland, IMEM Parma Italy, INFN Turino, Italy, CMU Pittsburgh USA, Belle II KEK Japan etc.
+Our Social Media Connect
+Contact Numbers for New Students
+(for any queries regarding registration, accessing facilities etc..)
+Phone Numbers: +91-291-2801602 (Office of Physics)
+Highlights
+View all highlights
+Prof. Ram Prakash from the Department of Physics, IIT Jodhpur has been elected as the President of the Plasma Science Society of India (2026–2028)
+Mr.Shubham Chamola has received the prestigious Commonwealth Fellowship to work at the University of Cambridge, UK for a duration of one year (Nov 2024-Oct 2025)
+Dr. Yogeshwar Nath Mishra has co-invented the World’s fastest single-shot wide-field microscope with his collaborators at NASA-Caltech in USA and FAU in Germany. They published their work in the journ
+Jitendra Yadav has received the Galileo Galilei Poster Award at the International Symposium on Beyond Li-ion Batteries held in Padova, Italy (Sept 1-6, 2024).
+Ph.D. students, Sipra Mohapatra and Hema Teherpuria, have been awarded the prestigious APS travel grant and Best Poster award for HEMA at CCP2024
+Our PhD student Miss Surbhi Ramawat has received the best poster award with a cash prize of 250/- Euro in one of the globally renowned conference on thermoelectric materials.
+Latest News
+View all news
+Ph.D.  Admissions in Physics AY 2025-26 SEMESTER-II (DEC 2025)
+List of Candidates for Ph.D. Admission - Academic Year 2025 - 26 (Semester I)
+List of Shortlisted Candidates for PhD Admission AY 2025-26, Department of Physics
+Seminars & Meetings
+View all events
+Feb
+2025
+Diving Deep into Physics Seminar Series :"Quantum Superposition, Entanglement, and Applications" by Prof. Natthi Lal..
+Jan
+2025
+Departmental Seminar : "Thin film devices on conventional and green substrates" by Dr. Deepa Bhatt, NOI Techpark, Free Univ..
+Jan
+2025
+Diving Deep into Physics Colloquium Series: " From Empirical to Machine Learning Potentials: Modeling Liqu..
+Dec
+2024
+Diving Deep into Physics Colloquium Series: " 3.6m DOT and Energetic Cosmic Transients" by Dr. Shashi Bhushan Pandey..
+Nov
+2024
+Diving Deep into Physics Colloquium Series: "The amazing world of gravitational wave from binary neutron star merger" by Prof. Ritam..
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 27 Feb 2026 - 02:26 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Mathematics ---
+Mathematics | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Programs
+Postgraduate Programs
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Student
+PhD Students
+Our Alumni
+Maths Society
+Laboratories
+Contact
+Mathematics
+Previous
+Next
+play_arrow
+Welcome to the Department of Mathematics
+Mathematics, being the basis of many disciplines, is a subject that evolves with time and creates new theories to solve real-world challenging problems. Our department has been taking a leading role in developing new methods to model such situations that can be used in diverse areas of computer science, engineering, and basic sciences. The department has faculty with research interests in the areas of Algebra, Mathematical Physics, Scientific Computation, Numerical Analysis, Partial Differential Equations, Topological Dynamics, Low Dimensional Chaos, Dynamical Systems, Renormalization in Low-dimensional dynamics, Wavelet Analysis, Fractional Transform Theory, Image Processing, Financial Risk Analysis, Categorical Data Analysis, Reliability Theory, Applied Probability.
+We are excited to offer high-quality programs at postgraduate level for students who wish to apply math to science or engineering such as a two-year M.Sc. program in Mathematics, a four-year M.Sc-M.Tech program in Mathematics-Data and Computational Sciences, a two year M.Tech program in Data and Computational Sciences. We also offer an M.Tech-Ph.D. dual degree program in Data and Computational Sciences and a Ph.D. Program with specialization in different areas of Mathematics to those who wish to earn a deeper understanding of pure and applied Mathematics.
+Workshop on LEAN
+List of provisionally shortlisted candidates for Ph.D. entrance examination for Semester II of 2025-26
+th International Conference on Nonlinear Applied Analysis and Optimization (ICNAAO -2025)
+From the  Head of the Department
+Welcome to the Department of Mathematics!!
+The  Department  of  Mathematics  is  dedicated  to  advancing  the  fields  of  pure  mathematics, applied  mathematics  and  statistics.  Our  vision  is  to  emphasize  both  the  fundamental  principles  of core  mathematics  and  the  foundational  concepts  essential  for  analyzing  key  principles  applied  in cutting-edge  technologies.  Since  its  establishment,  the  department  has  been  actively  engaged  in research across various critical areas of mathematics and computing.
+The  department  also  aimed  to  explore  modern  aspects  of  mathematics  coupled  with computational  capabilities  to  develop  a  workforce  specialized  in  mathematical  aspects  of  key technologies.  With  this  inclination,  the  department  initiated  academic  programs  to  address  the mathematical  needs  of  both  industry  and  academia.  Currently,  we  offer  various  programmes, namely,  a  two-year  M.Sc.  program  in  Mathematics,  a  four-year  M.Sc-M.Tech  program  in Mathematics-Data  and  Computational  Sciences,  a  two  year  M.Tech  program  in  Data  and Computational  Sciences....
+Read More: Head Message
+Latest Events
+View all Events
+Feb
+2026
+Research seminar by Dr Abhishek Kumar Singh on Feb 23, 2026
+Jan
+2026
+Invited talk by Prof. Basant Lal Sharma on 27 January 2026 at 12PM
+Jan
+2026
+PhD Thesis Defense of Ms. Sushmita Yadav on 15 January 2026 at 03:00 PM
+Announcement
+View all announcement
+Ph.D. Admission Results Semester-II, AY 2025-26
+Merit List of Provisionally Shortlisted Candidates for Ph.D. Admission...
+List of provisionally shortlisted candidates for Ph.D. entrance examination for Semester II....
+Latest News
+View all news
+Workshop on LEAN
+The Department of Mathematics is organizing an introductory workshop on the
+Lean proof assistant
+from 26th to 28th February.
+5th International Conference on Nonlinear Applied Analysis and Optimization (ICNAAO-2025)
+5th International Conference on Nonlinear Applied Analysis and Optimization (ICNAAO-2025)
+AFS-I - Annual Foundation School - I (2024) IIT Jodhpur
+AFS-I - Annual Foundation School - I (2024) IIT Jodhpur
+Highlights
+View all Highlights
+Nonlinear coupled-mode framework for coupled systems: From exact Hamiltonian models to improved reduced-order formulations
+General Casorati inequalities and implications for Riemannian maps and Riemannian submersions
+Congratulation to Dr Kiran Meena for Published of research paper
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 26 Feb 2026 - 10:59 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Bioscience & Bioengineering ---
+Bioscience & Bioengineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+About Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctorial Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Laboratories
+Contact
+Bioscience & Bioengineering
+Previous
+Next
+play_arrow
+Welcome to the Department of Bioscience & Bioengineering
+The Department of Bioscience & Bioengineering at IIT Jodhpur, established in 2009 offers a B.Tech. program in Bioengineering, an M.Tech. and M.Tech-Ph.D. dual degree programs in Bioscience & Bioengineering. Our programs are uniquely designed to inspire innovations in biotechnology, engineering, and medicine from an understanding of  biological systems.  This capacity building is assuming importance in the present times for providing solutions to societal problems in trans-disciplinary frameworks. A major focus is on neurosciences and neurodegenerative disorders, mechanistic biology, environmental and medical microbiology, computational biology, precision health, and bioprospecting for novel molecules and bio-actives from natural resources of the Thar ecoregion. We also offer a competitive Ph.D. program to inculcate scientific temper, independent thinking, and skillsets for scientific entrepreneurship. We encourage and provide avenues for the participation of bioengineering graduates with diverse engineering disciplines to develop technologies for:
+Affordable and Smart Healthcare
+Clean Environment
+Precision Medicine and Health
+Sustainable and Affordable Energy
+Faculties at the department with wide-ranging expertise,  conduct fundamental and translational research in focus areas that are contemporary and aligned to major sustainable development goals. We are passionate about research and actively communicate our science through regular outreach programs.
+Message from the Head of the Department
+Assoc. Prof. Neha Jain (Acting Head BSBE)
+Email: head_bb@iitj.ac.in,  Phone: 0291 280 1201
+Bioscience and Bioengineering are pivotal to India's growth. driving innovation and advancing technology in healthcare. Agriculture and environmental sustainability. The Department of Bioscience & Bioengineering at IIT Jodhpur plays a key role in implementing diverse advanced biological research areas within these fields. with a strong focus on fostering research and development (R&D) and entrepreneurship.
+By offering a multidisciplinary platform that integrates cutting-edge research in drug discovery, genomics, and affordable and integrative precision healthcare solutions. Big Data Biology and bioinformatics. In addition. The department actively promotes entrepreneurship by providing incubation support, facilitating industry collaborations, and encouraging the growth of startup ventures in biosciences.
+With access to advanced research facilities and guidance from expert faculty members, students can transform their ideas into practical, marketable solutions, benefiting industries such as healthcare, agriculture, and biomanufacturing.
+BSBE Department, IIT Jodhpur, emphasizes interdisciplinary research in the near future, which may also align with national initiatives like the BioE3 policy to promote R&D, commercialization, and the establishment of bioeconomy hubs. The curriculum is thoughtfully designed to meet the diverse aspirations of students entering the fields of biosciences and bioengineering. This approach not only strengthens the academic peers ecosystem but also creates employment opportunities and enhances societal well-being.
+Highlights
+View all highlights
+Dr. Priyanka Singh has won the prestigious and competitive BRNS-Young Scientist Research Award from the Department of Atomic Energy, Government of India. Congratulations!
+Dr. Meenu Chhabra and team publishes work on performance evaluation of a photosynthetic microbial fuel cell (PMFC) using Chlamydomonas reinhardtii at cathode. Congratulations!
+Dr. Priyanka Singh Selected for INYAS 2025 has been selected for membership in the Indian National Young Academy of Science (INYAS)
+Announcement
+View all announcement
+Ph.D. admission result AY 2025-26 Semester II
+Shortlisted Candidates for PhD Admission (AY 2025-26, Spring session, Sem-II)
+M.Tech (BSBE) candidates provisionally shortlisted for admission ,,,
+Ph.D. (BSBE) candidates provisionally shortlisted for admission..
+Events
+View all events
+Jul
+2021
+DESIGNS - "Desert EcoSystem Innovations Guided by Natural Selection" | 31st July 2021 | 9.30 am
+Feb
+2021
+International Conference on Bioengineering Solutions for Healthcare, Food, Energy & Environment | 9-10 April 2021
+Feb
+2021
+BSBE Lecture Series | Dr. G. Arunkumar | 03-02-2021 | 4.00 pm | Genomics in Healthcare Services
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 17 Dec 2025 - 10:23 AM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Materials Engineering ---
+Materials Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Staff Recruitment
+Faculty Members
+Post Doctoral Fellows
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctoral Programs
+Curriculum
+Courses
+Program Structure
+Regulations
+Laboratories
+Contact
+Materials Engineering
+Previous
+Next
+play_arrow
+Welcome To The Department of Materials Engineering
+The Department of Materials Engineering at IIT Jodhpur was established in 2017, and the Department is committed to high-quality education and research in the broad area of Materials Engineering. The Department continuously strives for excellence in teaching and research through innovative pedagogy and curriculum, by undertaking interdisciplinary projects, and through active collaborations with industries, R&D labs, and academia. By enabling the students to think independently and equipping them with relevant skill sets, our goal is to encourage the graduates to innovate and address present-day materials challenges to meet the needs of the country.
+At present, the Department offers B.Tech., M.Tech., and Ph.D. programs. The Department's teaching and research activities cover four major streams- structural materials, functional materials, computational materials engineering, and process metallurgy. From structural materials to semiconductors, we attempt to understand the processing, composition and structure, properties, and performance of materials for deriving novel, effective, and sustainable alternatives. Currently, efforts are being made to introduce advanced concepts such as smart materials, additive manufacturing, artificial intelligence and machine learning, sensor materials, etc., as a part of solving interdisciplinary problems requiring Materials Engineering knowledge.
+Department building image
+Head of the Department
+The Department of Materials Engineering at IIT Jodhpur is working towards building future generation minds rich in skills and innovation to be the best in the outside world. Faculty Members in the department have expertise in diverse areas of Materials Engineering. They are actively involved in conducting translational research in the fundamental and applied areas of Materials Engineering. The department frequently organizes invited lectures and workshops to share research findings, train students on the state-of-the-art experimental and computational techniques to promote the development of skill sets.
+The Department welcomes bright people who aspire to utilize the power of ambitious research and teaching to shape a better future.
+Materials Design and Processing
+Advanced Structural and Functional Materials
+Computational Materials Engineering
+Extractive and Process Metallurgy
+Materials Testing and Characterization
+Highlights
+View all highlights
+Shahzad Ahmed has been honored with the 🏆 Best Oral Presentation Award at the 2nd International Conference on Materials Science and Engineering
+Imaging atomic-scale magnetism with energy-filtered differential phase contrast method
+Abir Bhattacharyya awarded Early Career Research Award (ECRA)
+Latest News
+View all news
+PhD Result of AY 2025-26, Semester II
+Shortlisted candidates for the Ph.D. written test/interview  for Semester II of 2025-26
+Admission to Ph.D. Programme, AY 2025-26 Semester I (Round-2)
+Admission to Ph.D. Programme, AY 2025-26 Semester I: Shortlisting of Candidates ...
+List of Provisionally Selected PhD Candidates, AY 2025-26 Semester I
+AY 2025-26 SEMESTER I Ph.D. ADMISSIONS (Round II) MME
+Latest Event
+View all events
+Jan
+2023
+Department organized a presentation on
+"Material's Future"
+by Prof. Indranil Chattoraj
+Jan
+2023
+Department organized a presentation on
+"Sustainability of Metal Structures via Spray Clad Remanufacturing
+" by Prof. Sanjay Sampath
+Dec
+2022
+Department organized a 4-day workshop on
+"Advances in Additive Manufacturing (3D Printing)"
+Nov
+2022
+Department organized an
+"Orientation session"
+for the Undergraduate students
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 26 Nov 2025 - 05:12 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward
+
+--- Chemical Engineering ---
+Chemical Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+About Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Research & Infrastructure
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Students
+Students
+Alumni
+Corporate Relations
+Laboratories
+Contact
+Chemical Engineering
+Previous
+Next
+play_arrow
+Welcome To The Department of Chemical Engineering
+Translation of molecular information into discovery of new products and processes with Industry 4.0+
+Vision & Mission of the Department
+To become a globally recognized department of chemical engineering through its contribution in emerging and demand-driven areas with multidisciplinary approach.
+The Department of Chemical Engineering offers under-graduate (B.Tech.) and post-graduate (M.Tech., M.Tech.-Ph.D. and Ph.D.) programs in chemical engineering. Through the academic programs, the department is making a conscious effort to establish itself as a leading institute in the new genre of chemical engineering education. The program involves traditional courses, emerging areas and specialisations such as process engineering intelligence, molecular engineering and sustainability.
+In line with the new education policy, B.Tech. (Chemical Engineering) students will have unique opportunity and flexibility for:
+Minor in (a)Management (b)Entrepreneurship (c)Data Science
+Five year B.Tech.+M.Tech./ MBA
+One year Engineering Innovation opportunity
+Traditionally, chemical engineering teaching focuses on subjects like material and energy balance, transport phenomena, thermodynamics, mass transfer, heat transfer, fluid mechanics, chemical reaction engineering, numerical analysis, computational systems, biotechnology, petroleum-petrochemicals, polymers and safety engineering. With the advent of the era of Industry 4.0 in chemical companies, artificial intelligence (AI), machine learning (ML), data analytics, internet of things (IoT), molecular engineering, nano-composites; the discipline is being transformed by the incorporation of new emerging technologies and demand-driven areas.
+The department is keen on collaboration with industry and academia worldwide. At present, Chemical Engineering Department is sharing its expertise with the Department of Drinking Water and Sanitation (DDWS), Ministry of Jal Shakti; Defence Research and Development Organisation (DRDO), Ministry of Defence; International Atomic Energy Agency (IAEA) etc. Department has signed MoU with the industries for providing consultancy services. Department is also actively involved in Scientific Social Responsibility (SSR) through Unnat Bharat Abhiyan (UBA) and other societal initiatives.
+Department has research interest in core and emerging areas; and is looking for faculty members in different areas of chemical engineering. Prospective candidates are encouraged to visit our recruitment page and apply.
+Highlights
+View all Highlights
+"Congratulations to Dr. Vikky Anand, Assistant Professor, Department of Chemical Engineering, IIT Jodhpur, for being honored as a Young Associate of INAE for the year 2025."
+Congratulations to Prof Pradip Kumar Tewari, Professor, Department of Chemical Engineering, IIT Jodhpur, for honoring with the prestigious "Lifetime Achievement Award"..
+Congratulations to Prof Parag Arvind Deshpande, Professor, Department of Chemical Engineering, IIT Jodhpur, for honoring "CSI Sistla Kameswari Young Scientist Award - 2020"..
+Latest News
+View all news
+Provisionally Selected Candidates for the PhD Program (January 2026 Session)
+Selected Candidates for the Interview and Written Exam for Admission to the PhD(Jan 2026 )
+Workshop: Open source molecular visualization techniques for researchers
+Admission to Ph.D. Program for Autumn, 2025-26
+Latest Events
+View all events
+Mar
+2026
+Third edition of Chem-E-Sorption 2026
+Nov
+2023
+Expert talk & interactive session by Prof Rao R Tummala on 15/11/2023
+Oct
+2023
+Expert talk by Prof. Sunil Bhagwat, Director, IISER Pune on 21/10/2023
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 02 Mar 2026 - 05:17 PM
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+arrow_downward

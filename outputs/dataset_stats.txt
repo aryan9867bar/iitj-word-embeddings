@@ -1,0 +1,32 @@
+============================================================
+DATASET STATISTICS — IIT JODHPUR CORPUS
+============================================================
+
+Total Documents:       7
+Total Sentences:       1,133
+Total Tokens:          22,114
+Vocabulary Size:       4,074
+Avg Sentence Length:   19.52 tokens
+
+Top 20 Most Frequent Words:
+-----------------------------------
+    1. student                 262
+    2. institute               254
+    3. jodhpur                 252
+    4. professor               251
+    5. engineering             225
+    6. research                221
+    7. students                207
+    8. technology              203
+    9. iit                     191
+   10. indian                  186
+   11. program                 184
+   12. academic                174
+   13. course                  149
+   14. science                 144
+   15. department              139
+   16. assistant               139
+   17. phd                     138
+   18. faculty                 135
+   19. programs                120
+   20. semester                117

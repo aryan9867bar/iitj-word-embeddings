@@ -1,0 +1,2799 @@
+--- CSE Faculty ---
+People | Computer Science & Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Academics
+Undergraduate Programs
+Postgraduate Programs
+Programs for Working Professionals
+Doctoral Programs
+Research
+Research Area & Labs
+Projects
+Sponsors & Collaborators
+Compute Resources
+Achievements
+Faculty Achievements
+Student Achievements
+Students
+ACM Student Chapter IITJ
+Outstanding Student Projects
+Placements
+Alumni
+Teams
+PhD Students
+Events
+Webinars
+Students Presentation
+IIT Jodhpur Industry Connect 2022
+Winter School
+Grad Cohort Workshop
+Join Us
+Faculty
+Researchers
+Students
+Contact
+Computer Science & Engineering
+Faculty Members
+Gaurav Harit
+Professor
+email
+gharit[at]iitj[dot]ac[dot]in
+call
+0291 280 1253
+school
+PhD. Indian Institute of Technology Delhi
+Image and Video Analysis
+Mayank Vatsa
+Professor
+email
+mvatsa[at]iitj[dot]ac[dot]in
+call
+0291 280 1266
+school
+PhD. West Virginia University
+Computer Vision; Machine Learning; Deep Learning; Biometrics; Trusted AI
+Richa Singh
+Professor
+email
+richa[at]iitj[dot]ac[dot]in
+call
+0291 280 1267
+school
+PhD. West Virginia University
+Machine Learning; Pattern Recognition; Biometrics; Forensics; Trusted AI
+Avinash Sharma
+Associate Professor
+email
+avinashsharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1275
+school
+PhD. INRIA Rhone-Alpes, France
+3D Computer Vision (Human Digitization and Terrain Modelling); Geometry Processing; Graph Spectral Analysis; Applied ML for CogSci/Robotics/GIS
+Debasis Das
+Associate Professor
+email
+debasis[at]iitj[dot]ac[dot]in
+call
+0291 280 1261
+school
+Ph.D: Indian Institute of Technology, Patna
+Vehicular Ad-Hoc Networks (VANETs) / V2X systems, Artificial Intelligence (AI), Urban Intelligence, Distributed Deep Learning, Cryptography, and blockchain security
+Deepak Mishra
+Associate Professor
+email
+dmishra[at]iitj[dot]ac[dot]in
+call
+0291 280 1262
+school
+PhD. Indian Institute of Technology Delhi
+Machine Learning; Medical Image Analysis; Biomedical Circuits and Systems; Polarization Imaging
+Dip Sankar Banerjee
+Associate Professor
+email
+dipsankarb[at]iitj[dot]ac[dot]in
+call
+0291 280 1272
+school
+PhD. International Institute of Information Technology Hyderabad
+High Performance Computing; Computer Architecture; Data Analytics
+Pallavi Jain
+Associate Professor
+email
+pallavi[at]iitj[dot]ac[dot]in
+call
+0291 280 1270
+school
+PhD. Dayalbagh Educational Institute (Deemed University)
+Parameterized Complexity and Algorithms; Kernelization; Computational Social Choice Theory; Graph Algorithms
+Suchetana Chakraborty
+Associate Professor
+email
+suchetana[at]iitj[dot]ac[dot]in
+call
+0291 280 1273
+school
+PhD. Indian Institute of Technology Guwahati
+Wireless sensor and mobile ad hoc networks; Distributed Systems; Ubiquitous Computing; Edge Computing and IoT
+Sumit Kalra
+Associate Professor
+email
+sumitk[at]iitj[dot]ac[dot]in
+call
+0291 280 1259
+school
+PhD. Indian Institute of Technology Kanpur
+Software Architecture; Data Analytics; IoT; Smart Healthcare
+Yashaswi Verma
+Associate Professor
+email
+yashaswi[at]iitj[dot]ac[dot]in
+call
+0291 280 1260
+school
+PhD. International Institute of Information Technology Hyderabad
+Applied Machine Learning; Computer Vision
+Anand Mishra
+Assistant Professor
+email
+mishra[at]iitj[dot]ac[dot]in
+call
+0291 280 1264
+school
+PhD. International Institute of Information Technology Hyderabad
+Computer Vision; Deep Learning; Knowledge Graph; Multimodal Machine Learning
+Angshuman Paul
+Assistant Professor
+email
+apaul[at]iitj[dot]ac[dot]in
+call
+0291 280 1274
+school
+PhD. Indian Statistical Institute Kolkata
+Synthesis and Analysis of Medical Images; Deep Learning; Computer Vision
+Hardik Jain
+Assistant Professor
+email
+hardik[dot]jain[at]iitj[dot]ac[dot]in
+call
+0291 280 1276
+school
+PhD. Technical University Berlin, Germany
+3D Computer Vision, Edge AI, VR/AR Visualization
+Mohit Kumar Jangid
+Assistant Professor
+email
+mjangid[at]iitj[dot]ac[dot]in
+call
+0291 280 1271
+school
+The Ohio State University, Columbus, USA
+Automated Formal Verification; System Security and Privacy; Trusted Execution Environment; Cryptography and Protocol Design
+Nitin Awathare
+Assistant Professor
+email
+nitina[at]iitj[dot]ac[dot]in
+call
+0291 280 1280
+school
+PhD. Indian Institute of Technology, Bombay
+Distributed Systems; Blockchain; Payment Channel Network; System Architecture
+Palash Das
+Assistant Professor
+email
+palashdas[at]iitj[dot]ac[dot]in
+call
+0291 280 1256
+school
+PhD. Indian Institute of Technology Guwahati
+Computer Architecture; Near-Memory Processing; Hardware Designing; Machine Learning Accelerators
+Pratik Mazumder
+Assistant Professor
+email
+pratikm[at]iitj[dot]ac[dot]in
+call
+0291 280 1255
+school
+PhD. Indian Institute of Technology Kanpur
+Few-Shot Learning; Zero-Shot Learning; Incremental Learning; Deep Learning; Computer Vision; Machine Learning
+Romi Banerjee
+Assistant Professor
+email
+romibanerjee[at]iitj[dot]ac[dot]in
+call
+0291 280 1269
+school
+PhD. Calcutta University, Indian Statistical Institute
+Embodied Cognitive Architectures; Artificial General Intelligence; Computing with Words; Natural Language Understanding
+Sidharth Sharma
+Assistant Professor
+email
+sidharth[at]iitj[dot]ac[dot]in
+call
+0291 280 1258
+school
+Indian Institute of Technology Bombay
+Network Systems for AI at Scale; Self-Optimizing and Resilient Networks; Network Softwarization and Management; Performance Modelling
+Susil Kumar Mohanty
+Assistant Professor
+email
+susilmohanty[at]iitj[dot]ac[dot]in
+call
+0291 280 1281
+school
+Ph.D. : Indian Institute of Technology Patna
+Blockchain and Off-chain Technologies, Payment Channel Networks, Cybersecurity and Privacy, Applied Cryptography, Zero-Knowledge Proofs, Decentralized & Secure AI/ML
+Tanmay Inamdar
+Assistant Professor
+email
+taninamdar[at]iitj[dot]ac[dot]in
+call
+0291 280 1268
+school
+PhD. The University of Iowa
+Approximation Algorithms; Computational Geometry; Parameterized Complexity; Graph Algorithms
+Vimal Raj Sharma
+Assistant Professor
+email
+vimalraj[at]iitj[dot]ac[dot]in
+call
+0291 280 1257
+school
+PhD. Indian Institute of Technology, Kanpur
+Complexity Theory; Graph Algorithms; Theoretical Computer Science
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- EE Faculty ---
+People | Electrical Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Technical Staff Members
+Faculty Members
+Post Doctoral Fellows
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Research Overview
+Academic Programs
+Regulations
+Undergraduate Program
+Postgraduate program
+Doctoral Program
+Curriculum
+Laboratories
+Calender
+Contact
+Electrical Engineering
+Faculty Members
+Ajay Agarwal
+Professor
+email
+ajayagarwal[at]iitj[dot]ac[dot]in
+call
+0291 280 1378
+school
+Ph. D.: Birla Institute of Technology and Science Pilani
+Microelectronics; Micro- Nano-technologies; Sensors; Micro-fluidics, Point-of-Care devices and Early diagnostics
+Anil Kumar Tiwari
+Professor
+email
+akt[at]iitj[dot]ac[dot]in
+call
+0291 280 1353
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Electrical Engineering: Image Processing, Video Processing, and Signal Processing application in Bio-Medical
+Bharat Singh Rajpurohit
+Professor
+email
+bsr[at]iitj[dot]ac[dot]in
+call
+0291 280 1379
+school
+Ph.D: Indian Institute of Technology Kanpur
+Electric Drives; Power Electronics Applications to Power Systems; Grid Integration of Renewable Energy.
+Deepak kumar M Fulwani
+Professor
+email
+df[at]iitj[dot]ac[dot]in
+call
+0291 280 1355
+school
+Ph.D.: Indian Institute of Technology Bombay
+Microgrids, Power Electronics, Control Theory
+Mahesh Kumar
+Professor
+email
+mkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1357
+school
+Ph.D.: Indian Institute of Science Bangalore
+2D materials, Sensors: Gas, Photo, Bio, Ions & Gamma Ray, Memristors
+Manoj Choudhary
+Professor
+email
+manoj[at]iitj[dot]ac[dot]in
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Communication Systems (Wireless - 4G/5G/6G, Modem/WLAN/WPAN/UWB) and networks; System on Chip; Embedded Systems & Software; Image Sensors and signal processing; Internet of Things and smart homes; AI, ML and computer vision
+Sandeep Kumar Yadav
+Professor
+email
+sy[at]iitj[dot]ac[dot]in
+call
+0291 280 1354
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Signal Processing, Machine Learning, Condition Monitoring, Image Processing
+Shree Prakash Tiwari
+Professor
+email
+sptiwari[at]iitj[dot]ac[dot]in
+call
+0291 280 1356
+school
+Ph.D.: Indian Institute of Technology Bombay
+Flexible Electronics, Microelectronics, Sustainable and Biodegradable Systems
+Aashish Mathur
+Associate Professor
+email
+aashishmathur[at]iitj[dot]ac[dot]in
+call
+0291 280 1362
+school
+Ph.D.: Indian Institute of Technology Delhi
+Optical Wireless Communications, Physical Layer Security, 5G and Beyond Communications
+Abdul Gafoor Shaik
+Associate Professor
+email
+saadgafoor[at]iitj[dot]ac[dot]in
+call
+0291 280 1359
+school
+Ph.D.: National Institute of Technology Warangal
+Protection of various components of Power System, Protection of Distribution Network with DG penetration, Power Quality assessment and mitigation in Distribution Networks with Renewable Energy Source penetration
+Amit Bhardwaj
+Associate Professor
+email
+amitb[at]iitj[dot]ac[dot]in
+call
+0291 280 1372
+school
+Ph.D.: Indian Institute of Technology Bombay
+Haptics
+Arpit Arvind Khandelwal
+Associate Professor
+email
+arpitkhandelwal[at]iitj[dot]ac[dot]in
+call
+0291 280 1363
+school
+Ph.D.: International Institute of Information Technology Hyderabad
+Internet of Things (IoT) and Photonics
+Arun Kumar Singh
+Associate Professor
+email
+singhak[at]iitj[dot]ac[dot]in
+call
+0291 280 1358
+school
+Ph.D.: Telecom Paris, France
+Wireless Communications, Communication Theory, Spread spectrum systems, and Satellite based navigation systems
+Harshit Agarwal
+Associate Professor
+email
+agarwalh[at]iitj[dot]ac[dot]in
+call
+0291 280 1376
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Semiconductor Device Modeling and Characterization, RF microelectronics, NVM, ESD Modeling
+Jai Narayan Tripathi
+Associate Professor
+email
+jai[at]iitj[dot]ac[dot]in
+call
+0291 280 1374
+school
+Ph.D.: Indian Institute of Technology Bombay
+High-Speed VLSI Systems, Signal Integrity, Power Integrity
+Kunwar Aditya
+Associate Professor
+email
+kunwar[dot]aditya[at]iitj[dot]ac[dot]in
+call
+0291 280 1384
+school
+Ph. D.: Ontario Tech University (UOIT), Oshawa, ON, Canada
+Power Electronics, Automotive Electronics, Wireless Power Transfer, Transportation Electrification, Electrical Energy Storage Systems
+Manish Narwaria
+Associate Professor
+email
+narwaria[at]iitj[dot]ac[dot]in
+call
+0291 280 1367
+school
+Ph.D.: Nanyang Technological University
+Multimedia signal processing
+Nishant Kumar
+Associate Professor
+email
+nishantkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1382
+school
+Ph. D.: Indian Institute of Technology, Delhi
+Power Electronics and Advanced Control; Power System Optimization ; Renewable Energy Generation; Microgrid & EV; Cybersecurity for Electric Power Infrastructure
+Nitin Bhatia
+Associate Professor
+email
+nitin[at]iitj[dot]ac[dot]in
+call
+0291 280 1366
+school
+Ph.D.: Indian Institute of Technology Bombay
+Fiber Optics, Photonics, Multimode Interference devices, Multimode Optical Beams, Few mode fiber devices, Optical Sensors
+Rajlaxmi Chouhan
+Associate Professor
+email
+rajlaxmichouhan[at]iitj[dot]ac[dot]in
+call
+0291 280 1360
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Image processing, image quality assessment, noise-aided image enhancement, e-learning tools and techniques
+Saakshi Dhanekar
+Associate Professor
+email
+saakshi[at]iitj[dot]ac[dot]in
+call
+0291 280 1373
+school
+Ph.D.: Jamia Millia Islamia, Central University
+Nano-sensors for societal applications, device development, gas- and bio-sensors, MEMS, silicon based devices
+Soumava Mukherjee
+Associate Professor
+email
+soumava[at]iitj[dot]ac[dot]in
+call
+0291 280 1361
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Microwave and millimeterwave Antennas, active and passive circuits
+Abhishek Sharma
+Assistant Professor
+email
+abhisheksharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1388
+school
+PhD: Indian Institute of Technology Kanpur
+Antennas, Metamaterials, Metasurfaces, Electromagnetics, Millimeter-Wave/THz Circuits
+Akshay Moudgil
+Assistant Professor
+email
+akshaymoudgil[at]iitj[dot]ac[dot]in
+call
+0291 280 1383
+school
+Ph.D: Indian Institute of Technology Delhi
+Nano/Microelectronics, Sensors, Wearable Devices, Hybrid (Organic/Inorganic) Transistors, Bioelectronics, Optoelectronics,  Printed Electronics
+Amandeep Kaur
+Assistant Professor
+email
+amandeepkaur[at]iitj[dot]ac[dot]in
+call
+0291 280 1368
+school
+Ph.D.: Indian Institute of Technology Delhi
+Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors
+Anoop Jain
+Assistant Professor
+email
+anoopj[at]iitj[dot]ac[dot]in
+call
+0291 280 1371
+school
+Ph.D.: Indian Institute of Science, Bangalore
+Cooperative Control, Multi-Agent Systems, Autonomous Systems, Robotics, Nonlinear Control, Cyber-Physical Systems
+Arani Ali Khan
+Assistant Professor
+email
+aakhan[at]iitj[dot]ac[dot]in
+call
+0291 280 1364
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+RF and Microwave Engineering.
+Bandi Ravi Kumar
+Assistant Professor
+email
+ravik[at]iitj[dot]ac[dot]in
+call
+0291 280 2351
+school
+Ph.D. – Indian Institute of Technology (IIT) Kanpur
+Power system protection, Power system monitoring (State estimation, Low frequency oscillations monitoring, etc), Synchrophasors and their applications for power system, Optimization.
+Bhupendra Singh Reniwal
+Assistant Professor
+email
+bhupendrar[at]iitj[dot]ac[dot]in
+call
+0291 280 1396
+school
+Ph.D: Indian Institute of Technology Indore
+Spintronic and Advanced Spin Based STTRAMs for Future Computing GPIO, CFIO, Design IBIS Model, ESD and its implications to overall IO functionality AI, Hardware Accelerators and IMC Circuits & Architectures Design Variation/Radiation Aware Preferential Design of Embedded Memory for Energy Efficient and Robust Space Applications
+Binod Kumar
+Assistant Professor
+email
+binod[at]iitj[dot]ac[dot]in
+call
+0291 280 1381
+school
+Ph. D.: Indian Institute of Technology Bombay
+Digital VLSI Design, VLSI CAD, Hardware Security
+Himanshu Kumar
+Assistant Professor
+email
+hkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1370
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Image and Video Processing, Computer Vision, Computational Imaging, Deep Learning
+Lavi Tyagi
+Assistant Professor
+email
+lavityagi[at]iitj[dot]ac[dot]in
+call
+0291 280 1377
+school
+Indian Institute of Technology Bombay
+II-V, II-VI Materials & Devices (Visible, NIR Detectors); Terahertz Generation & Detection Devices; Nanophotonic & Plasmonic Metamaterials; Microelectronic Interfaces of Hardware Security (Non-Invasive, Semi-Invasive, Invasive)
+Manoj Gupta
+Assistant Professor
+email
+manojgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1365
+school
+PhD: Nanyang Technological University, Singapore
+Terahertz Communication, In-Plane Silicon Photonics, Metamaterials, Low-Dimensional Materials, Sensing Technologies, Hybrid Electronic-Photonic Integration
+Niladri Sekhar Tripathy
+Assistant Professor
+email
+niladri[at]iitj[dot]ac[dot]in
+call
+0291 280 1375
+school
+Ph. D.: Indian Institute of Technology Delhi
+Dynamics and Control, Mechatronics and Cyber Physical Systems
+Pradyumna Kumar Bishoyi
+Assistant Professor
+email
+pradyumna[at]iitj[dot]ac[dot]in
+call
+0291 280 1400
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Wireless communication networks, Next-generation WiFi networks, Integrated Sensing and Communication (ISAC) networks, 5G/6G mobile networks, IoT networks, Network Economics, Game Theory and Mechanism Design.
+Rajendra Nagar
+Assistant Professor
+email
+rn[at]iitj[dot]ac[dot]in
+call
+0291 280 1369
+school
+Ph.D.: Indian Institute of Technology Gandhinagar
+Digital Geometry Processing, 3D Computer Vision, Multidimensional Signal Processing on 3D Shapes
+Ravi Yadav
+Assistant Professor
+email
+raviyee[at]iitj[dot]ac[dot]in
+call
+0291 280 1380
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Power system dynamics, Wide area monitoring systems, anomaly detection and characterization, AI/ML applications to power systems, and cyber-attack modelling and diagnosis
+Saurav Kumar
+Assistant Professor
+email
+sauravk[at]iitj[dot]ac[dot]in
+call
+0291 290 1386
+school
+PhD. The University of Texas at Dallas
+Wearable Robotics, Nonlinear Control, Modeling of legged robots, Prosthetic Legs, Exoskeletons, Biomechanics.
+Suraj Srivastava
+Assistant Professor
+email
+surajsri[at]iitj[dot]ac[dot]in
+call
+0291 280 1387
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Sparse Signal Processing in 5G/6G Wireless Systems, mmWave and Tera-Hertz Communication, Orthogonal Time-Frequency Space (OTFS), Joint Radar and Communication (RadCom), Optimization and Machine Learning, Low resolution MIMO Communications
+Vineeth V
+Assistant Professor
+email
+vineeth[at]iitj[dot]ac[dot]in
+call
+0291 280 1399
+school
+Ph. D.: Indian Institute of Technology Kanpur
+Power Systems, Active Distribution System Operational Planning, Smart Grids, Distributed Energy Resources, Optimization
+Viswanathan Ramachandran
+Assistant Professor
+email
+vramachandran[at]iitj[dot]ac[dot]in
+call
+0291 280 1390
+school
+Ph.D: Indian Institute of Technology Bombay
+Information Theory, Wireless Communications, Signal Processing, Coding Theory, Privacy and Security, Statistical Learning
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- ME Faculty ---
+People | Mechanical Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctorial Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Laboratories
+Contact
+Mechanical Engineering
+Faculty Members
+Anand Krishnan Plappally
+Professor
+email
+anandk[at]iitj[dot]ac[dot]in
+call
+0291 280 1507
+school
+PhD. The Ohio State University
+Water, Water Management and Characterization of Engineered Materials
+Avinash Kumar Agarwal
+Professor
+email
+akag[at]iitj[dot]ac[dot]in
+call
+0291 280 1012
+school
+Ph.D.: Indian Institute of Technology Delhi
+IC engines, combustion, conventional and alternative fuels, Methanol/ DME/ Hydrogen/ HCNG fuelled engine development, LCA and TCO analyses, Fuel sprays, Lubricating oil tribology, optical diagnostics, laser ignition, HCCI, particulates and emission control, and large bore engines
+B Ravindra
+Professor
+email
+ravib[at]iitj[dot]ac[dot]in
+call
+0291 280 1503
+school
+PhD. Indian Institute of Technology Kanpur
+Design, Dynamics, Vibration and Control
+Kaushal A Desai
+Professor
+email
+kadesai[at]iitj[dot]ac[dot]in
+call
+0291 280 1509
+school
+PhD. Indian Institute of Technology Delhi
+CAD/CAM, CNC Machine Tools, Smart Manufacturing, and Product Design and Development
+Prodyut Ranjan Chakraborty
+Professor
+email
+pchakraborty[at]iitj[dot]ac[dot]in
+call
+0291 280 1508
+school
+PhD. Indian Institute of Science Bangalore
+Heat and mass transfer, Latent heat based storage device for high temperature applications, Alloy solidification process, Active and passive solar cooling systems, Electronic cooling
+Rahul Chhibber
+Professor
+email
+rahul_chhibber[at]iitj[dot]ac[dot]in
+call
+0291 280 1506
+school
+PhD. Indian Institute of Technology Roorkee
+Welding and joining, Manufacturing and materials processing, Mechanical behavior of materials
+Suril Shah
+Professor
+email
+surilshah[at]iitj[dot]ac[dot]in
+call
+0291 280 1510
+school
+PhD. Indian Institute of Technology Delhi
+Robotics, Multibody Dynamics and Control
+Ankur Gupta
+Associate Professor
+email
+ankurgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1517
+school
+PhD. Indian Institute of Technology Kanpur
+Microsystems Fabrication
+Arun Kumar R
+Associate Professor
+email
+arunkr[at]iitj[dot]ac[dot]in
+call
+0291 280 1516
+school
+PhD. Indian Institute of Technology Madras
+Experimental Aerodynamics - Confined Jets, Shock Wave Reflection and Transitions, Ejector Flows.
+Barun Pratiher
+Associate Professor
+email
+barun[at]iitj[dot]ac[dot]in
+call
+0291 280 1505
+school
+PhD. Indian Institute of Technology Guwahati
+Dynamics of Machines and Structures, Flexible Robots, MEMS, Rotor Dynamics, Nonlinear Oscillations
+Chandan Pandey
+Associate Professor
+email
+jscpandey[at]iitj[dot]ac[dot]in
+call
+0291 244 1514
+school
+PhD. Indian Institute of Technology Roorkee
+Welding, Heat treatment, Nuclear grade material, Mechanical behavior of materials, Material processing
+Hardik Kothadia
+Associate Professor
+email
+hardikkothadia[at]iitj[dot]ac[dot]in
+call
+0291 280 1512
+school
+PhD. Indian Institute of Technology Bombay
+Multiphase Flow, Boiling and Condensation, Heat Transfer, Fluid Mechanics, Gasification
+Mrityunjay Doddamani
+Associate Professor
+email
+mrityunjay[at]iitj[dot]ac[dot]in
+call
+0291 280 1533
+school
+Ph. D.: NITK Surathkal
+Additive Manufacturing, Composites, Foams, Secured Manufacturing
+Shobhana Singh
+Associate Professor
+email
+shobhana[at]iitj[dot]ac[dot]in
+call
+0291 280 1520
+school
+PhD. Indian Institute of Technology Delhi
+Thermal energy systems: Thermal energy storage, Solar dryers, Heat pumps, Heat exchangers; Heat and mass transfer analysis; Dynamic and Multiphysics modeling; Computational fluid dynamic modeling; System and design optimization; Renewable energy integration; Electrochemical carbon capture.
+Shrutidhara Sarma
+Associate Professor
+email
+shrutidhara[at]iitj[dot]ac[dot]in
+call
+0291 280 1515
+school
+PhD. Indian Institute of Technology Guwahati
+Smart Respiration System, Flexible and stretchable sensors, Portable assistive devices, Self-powered sensors, Airframe sensing skin technologies, Structure- property relations, Electrospun nanofibers, Laminated nanocomposites, Thin film gauges
+Sudipto Mukhopadhyay
+Associate professor
+email
+smukhopadhyay[at]iitj[dot]ac[dot]in
+call
+0291 280 1511
+school
+PhD. Eindhoven University of Technology
+Experimental and Numerical Combustion, Clean Energy Technologies, Droplets and Sprays, Turbulent Flows
+Ambuj Kumar Gautam
+Assistant Professor
+email
+ambujk[at]iitj[dot]ac[dot]in
+call
+0291 280 1540
+school
+Ph.D.: IIT Kanpur, & National Yang Ming Chiao Tung University Taiwan
+Non-Destructive Evaluation (NDE) and Structural Health Monitoring (SHM) for Industrial Infrastructure using Ultrasonic/EMAT Transducers, Pipeline Inspection Robotics, Quartz Crystal Microbalance (QCM) Sensors.
+Amrita Puri
+Assistant Professor
+email
+amritapuri[at]iitj[dot]ac[dot]in
+call
+0291 280 1518
+school
+PhD. Indian Institute of Technology Delhi
+Active noise control; Active vibration control; Experimental modal analysis; Acoustics
+Anurag Sharma
+Assistant Professor
+email
+anuragsharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1569
+school
+Ph.D. : Nanyang Technological University (NTU) Singapore
+Advanced Composite Materials; Thermoplastic composites; Fatigue and Impact behavior of Composites; Multifunctional Composite Design; Composite Manufacturing & Processing; Structural testing; Damage mechanics & Failure analysis.
+Ashish Pathak
+Assistant Professor
+email
+apathak[at]iitj[dot]ac[dot]in
+call
+0291 280 1525
+school
+PhD. University of Massachusetts Dartmouth
+Fluid-Structure Interaction; Ocean Energy; Phase-Change Problems; Multiphase flows; High Performance Computing
+Atul Kumar Sharma
+Assistant Professor
+email
+atulksharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1522
+school
+PhD. Indian Institute of Technology Roorkee
+Solid Mechanics; Continuum Mechanics; Computational Solid Mechanics; Mechanics of Soft Active Materials; Wave Propagation in Soft Active Composite Materials; Topology Optimization
+Babu Ranjan Thakur
+Assistant Professor
+email
+brthakur[at]iitj[dot]ac[dot]in
+call
+0291 280 1541
+school
+Ph.D: Indian Institute of Technology, Kharagpur
+Computational Mechanics, Composite Materials, Nonlinear Dynamics, Flat and Folded Composite Structures, FEM.
+Gagan Kewalramani
+Assistant Professor
+email
+gagank[at]iitj[dot]ac[dot]in
+call
+0291 280 1535
+school
+Ph.D.: Universite de Lorraine
+Turbulent flows, Fluid Mechanics, Heat transfer.
+Gopal Dnyanba Gote
+Assistant Professor
+email
+gopaldgote[at]iitj[dot]ac[dot]in
+school
+Ph.D. : Indian Institute of Technology Bombay
+Manufacturing system development, Vacuum system, Electron beam, Rapid casting
+Gourhari Ghosh
+Assistant Professor
+email
+gourharighosh[at]iitj[dot]ac[dot]in
+call
+0291 280 1523
+school
+PhD. Indian Institute of Technology Kharagpur
+Ultra-precision Finishing; Laser-based Additive Manufacturing; Thermal Spray Coating; Tribology
+Harshal Akolekar
+Assistant Professor
+email
+harshal[dot]akolekar[at]iitj[dot]ac[dot]in
+call
+0291 280 1527
+school
+PhD. University of Melbourne, Australia
+Aerodynamics; Computational Fluid Dynamics; Machine Learning; Submarine Hydrodynamics; Turbomachinery
+Himanshu Dave
+Assistant Professor
+email
+himanshudave[at]iitj[dot]ac[dot]in
+call
+0291 280 1534
+school
+Ph.D Indian Institute of Science, Bangalore
+Clean combustion for power and propulsion | LES and DNS of turbulent combustion | Scientific machine learning
+Hirshikesh
+Assistant Professor
+email
+hirshikesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1528
+school
+PhD. Indian Institute of Technology Madras
+Computational Fracture Mechanics, Computational Solid Mechanics, Adaptive re-meshing strategy, Phase-field method
+Jayant Kumar Mohanta
+Assistant Professor
+email
+jayant[at]iitj[dot]ac[dot]in
+call
+0291 280 1524
+school
+PhD. Indian Institute of Technology Indore
+Planar Parallel manipulators; Lower limb rehabilitation robots; Medical robotics; Robot manipulator kinematic and dynamic control, Mechanism design and Analysis
+Nipun Arora
+Assistant Professor
+email
+nipun[at]iitj[dot]ac[dot]in
+call
+0291 280 1519
+school
+PhD. Indian Institute of Technology Delhi
+Flapping wing aerodynamics; Fluid-structure interaction; CFD with Lattice Boltzmann method; Turbulence and moving boundary simulations; High performance computing; Electrorheological Fluids.
+Nitesh Arora
+Assistant Professor
+email
+nitesharora[at]iitj[dot]ac[dot]in
+call
+0291 280 1536
+school
+Ph.D.: University of Wisconsin-Madison
+Solid & Structural Mechanics; Metamaterials; Instabilities; Soft Materials; Magnetoactive Materials
+Pratyaksh Karan
+Assistant Professor
+email
+pratyakshkaran[at]iitj[dot]ac[dot]in
+call
+0291 280 1537
+school
+PhD: Indian Institute of Technology Kharagpur
+Modelling and applications of fluids and soft materials in micro and nano scale systems, Mathematical methods for applied mechanics, Characterization of mechanical behavior of materials, Transport and Mixing of Solutes
+Rajit Ranjan
+Assistant Professor
+email
+rajitranjan[at]iitj[dot]ac[dot]in
+call
+0291 280 1532
+school
+PhD. TU Delft, Netherlands
+Topology optimization, Additive Manufacturing, Computational modelling
+Riby Abraham Boby
+Assistant Professor
+email
+riby[at]iitj[dot]ac[dot]in
+call
+0291 280 1504
+school
+PhD. Indian Institute of Technology Delhi
+Robotics; Machine Vision; Robot calibration; Automated Visual Inspection; Industrial robots; Human-Machine Interface;
+Roshan Kumar Hota
+Assistant Professor
+email
+rkhota[at]iitj[dot]ac[dot]in
+call
+0291 280 1529
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Robotics, Robotic Manipulation, Grasping, Design of Robotic Hands, Mechanisms, Reinforcement Learning
+Srijit Biswas
+Assistant Professor
+email
+sbiswas[at]iitj[dot]ac[dot]in
+call
+0291 280 1539
+school
+PhD. National Institute of Technology, Agartala
+IC engines, alternative fuels, combustion, performance, emissions (Experimental and Simulation), UAV propulsion, and sustainability assessment through Life Cycle Assessment (LCA), Techno-Economic Assessment (TEA), and Socio-Economic Assessment (SEA).
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Physics Faculty ---
+People | Physics | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Research
+Publication
+Research Groups
+Ongoing Projects
+Completed Projects
+Collaborations
+Laboratories
+Contact
+Physics
+Faculty Members
+Ambesh Dixit
+Professor
+email
+ambesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1605
+school
+PhD: Wayne State University
+Semiconductors, multifunctional ferroics & materials for energy-fabrication & characterization, Photovoltaic materials & devices ab initio DFT study and device simulations
+Ram Prakash
+Professor
+email
+ramprakash[at]iitj[dot]ac[dot]in
+call
+0291 280 1615
+school
+PhD: Centre of Plasma Physics-Institute for Plasma Research Guwahati
+Plasma Science & Technology: Low temperature plasma applications
+Satyajit Sahu
+Professor
+email
+satyajit[at]iitj[dot]ac[dot]in
+call
+0291 280 1608
+school
+PhD: Indian Association for the Cultivation of Science (IACS), Kolkata
+Condensed Matter Physics and Semiconductor Devices
+Subhashish Banerjee
+Professor
+email
+subhashish[at]iitj[dot]ac[dot]in
+call
+0291 280 1603
+school
+PhD: School of Physical Sciences, Jawaharlal Nehru University
+Open Quantum Systems; Quantum Information; Non-Equilibrium Statistical Mechanics; Quantum Optics
+Sunil K Khijwania
+Professor
+email
+skhijwania[at]iitj[dot]ac[dot]in
+call
+0291 280 1606
+school
+PhD: Indian Institute of Technology Delhi
+Fiber Optics, Fiber Bragg Gratings based Devices, Nanophotonics, Structural Health Monitoring, Optical Fiber Sensor, Specialty Fibers, Quasi-distributed Sensing, Optical Fiber Plasmonic Sensors, Optical fiber Sensors for Water, Air Quality Diagnostics, Biomedical Applications and Homeland Security, Wearable Photonics Sensors.
+Sampat Raj Vadera
+Distinguished Professor
+email
+srv[at]iitj[dot]ac[dot]in
+call
+0291 280 1611
+school
+PhD: Jai Narayan Vyas University
+Solid State Physics, Materials Science, Nanoscience and Nanotechnology, Stealth Materials, Stealth Technology
+B M Krishna Mariserla
+Associate Professor
+email
+bmkrishna[at]iitj[dot]ac[dot]in
+call
+0291 280 1614
+school
+PhD: University of Hyderabad
+Light-Matter interactions, Ultrafast Spectroscopy, Terahertz Spectroscopy, and Higher harmonic generation
+Monika Sinha
+Associate Professor
+email
+ms[at]iitj[dot]ac[dot]in
+call
+0291 280 1604
+school
+PhD: Jadavpur University
+Astrophysics, Astroparticle physics
+Prabhat Jaiswal
+Associate Professor
+email
+prabhat[dot]jaiswal[at]iitj[dot]ac[dot]in
+call
+0291 280 1612
+school
+PhD: Jawaharlal Nehru University
+Statistical and Computational Physics of Soft Matters
+Reetanjali Moharana
+Associate Professor
+email
+reetanjali[at]iitj[dot]ac[dot]in
+call
+0291 280 1616
+school
+PhD. Indian Institute of Technology Bombay
+Astroparticle Physics, High energy Cosmic rays, Gamma rays and Neutrinos
+Santosh Mogurampelly
+Associate Professor
+email
+santosh[at]iitj[dot]ac[dot]in
+call
+0291 280 1613
+school
+PhD: Indian Institute of Science Bangalore
+Multiscale Modeling of Soft Matter Physics and Materials Science
+Satyajit Sahu
+Associate Professor
+email
+satyajit[at]iitj[dot]ac[dot]in
+call
+0291 280 1608
+school
+PhD: Jadavpur University
+2D-TMDC based semiconductor devices such as memory device, solar cell, photodetectors, thermoelectric device, thin-film transistor. Quantum Dot-based semiconductor devices. Organic semiconductor, molecular electronics, single molecule study using UHV-STM. Perovskite-based solar cells.
+Shahab Ahmad
+Associate Professor
+email
+shahab[at]iitj[dot]ac[dot]in
+call
+0291 280 1617
+school
+PhD: Indian Institute of Technology Delhi
+Condensed Matter Physics, Nanomaterials, Optoelectronics, Energy Storage Devices, Solar Cells, Photo-detectors, Light Emitting Diodes
+Amit Mukherjee
+Assistant Professor
+email
+amitm[at]iitj[dot]ac[dot]in
+call
+0291 280 1621
+school
+PhD: University of Calcutta (Indian Statistical Institute, Kolkata)
+Quantum Foundations, Quantum Information Theory, Quantum Communication Theory, Quantum Technologies.
+Durgamadhab Mishra
+Assistant Professor
+email
+durgamadhab[at]iitj[dot]ac[dot]in
+call
+0291 280 1610
+school
+PhD: Ruhr University Bochum
+Magnetic thin films and nanoparticles, Permanent Magnets, Synchrotron and Neutron Scattering and X-ray imaging
+Dushyant Kumar
+Assistant Professor
+email
+dushyantkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1620
+school
+PhD: Indian Institute of Technology Kanpur
+Topological Quantum Materials; Energy Harvesting (3G, 4G, 5G, upto THz); Sensing; Non-linear Spintronics; Quantum Engineering; Mapping 3D Spin Texture.
+Jitendra Kumar
+Assistant Professor
+email
+jkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1622
+school
+PhD: Indian Institute of Technology, Bombay
+Experimental High Energy Physics, Particle Detection Techniques, and ML in HEP
+Jitendra Kumar
+Assistant Professor
+email
+jitendrak[at]iitj[dot]ac[dot]in
+call
+0291 280 1609
+school
+PhD: Indian Institute of Technology Kanpur
+Thin-Film Photovoltaic Devices, Nanomaterials, Semiconductor Devices, Micro-fabrication Technologies, Materials for Energy Applications, and Flexible Electronic Devices.
+Lata Panwar
+Assistant Professor
+email
+lata[at]iitj[dot]ac[dot]in
+call
+0291 280 1625
+school
+PhD: Indian Institute of Science, Bangalore, Karnataka
+Experimental High Energy Physics.
+Naveen Kumar Tailor
+Assistant Professor
+email
+nktailor[at]iitj[dot]ac[dot]in
+call
+0291 280 1643
+school
+PhD: Indian Institute of Technology Roorkee
+Solar Cells, Photodetectors and X-ray detectors, CO 2 Capture and Conversion, Green Hydrogen, Fundamental properties investigation in emerging materials
+Sagar Kumar Verma
+Assistant Professor
+email
+sagarkv[at]iitj[dot]ac[dot]in
+call
+0291 280 1642
+school
+PhD: Indian Institute of Technology, Roorkee
+Nanophotonics, Plasmonic, Metasurfaces,
+Metamaterials, Laser Sintering, Ultrafast Time-Resolved Spectroscopies.
+Sunita
+Assistant Professor
+email
+sunita[at]iitj[dot]ac[dot]in
+call
+0291 280 1618
+school
+PhD: Banaras Hindu University, Varanasi
+Theoretical soft matter and physics of living organisms (active matter; intracellular phase transitions; properties of soft elastic materials; charge regulation effects on biomolecules; liquid crystals)
+V Narayanan
+Associate Professor
+email
+vnara[at]iitj[dot]ac[dot]in
+call
+0291 280 1607
+school
+PhD: Indian Institute of Technology Kanpur
+Optics and Solar Field Design, Plasmonics, Laser Produced Plasmas (LPP), Pulsed Laser Deposition (PLD), Plasma Diagnostics (Interferometry & Optical Emission Spectroscopy (OES)), Laser Matter Interaction and Laser Cluster Interaction.
+Yogeshwar Nath Mishra
+Assistant Professor
+email
+mishrayn[at]iitj[dot]ac[dot]in
+call
+0291 280 1624
+school
+PhD: Lund University, Sweden
+Ultrafast Imaging, Laser Diagnostics, Photonics,  Energy Technology, Biomedical Imaging
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Mathematics Faculty ---
+People | Mathematics | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Programs
+Postgraduate Programs
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Student
+PhD Students
+Our Alumni
+Maths Society
+Laboratories
+Contact
+Mathematics
+Faculty Members
+Gaurav Bhatnagar
+Professor
+email
+goravb[at]iitj[dot]ac[dot]in
+call
+0291 280 1457
+school
+Ph.D.: Indian Institute of Technology Roorkee
+Wavelet Analysis, Fractional Transform Theory, Multimedia Security, Image Processing, Information Fusion
+Kirankumar R Hiremath
+Professor
+email
+k[dot]r[dot]hiremath[at]iitj[dot]ac[dot]in
+call
+0291 280 1453
+school
+Ph.D.: University of Twente
+Theoretical, mathematical and computational aspects of wave-matter interactions
+Puneet Sharma
+Professor
+email
+puneet[at]iitj[dot]ac[dot]in
+call
+0291 280 1455
+school
+Ph.D.: Indian Institute of Technology Delhi
+Topological Dynamics, Low Dimensional Chaos
+Abhishek Sarkar
+Associate Professor
+email
+abhisheks[at]iitj[dot]ac[dot]in
+call
+0291 280 1461
+school
+Ph.D.: Tata Institute of Fundamental Research Centre for                      Applicable Mathematics
+Elliptic partial differential equations
+Dilpreet Kaur
+Associate Professor
+email
+dilpreetkaur[at]iitj[dot]ac[dot]in
+call
+0291 280 1460
+school
+Ph.D.: Indian Institute of Science Education and Research (IISER) Mohali
+Algebra (Group Theory)
+Nil Kamal Hazra
+Associate Professor
+email
+nilkamal[at]iitj[dot]ac[dot]in
+call
+0291 280 1458
+school
+Ph.D.: IISER Kolkata
+Reliability Theory, Applied Probability
+Sukhendu Ghosh
+Associate Professor
+email
+sukhendu[dot]math[at]iitj[dot]ac[dot]in
+call
+0291 280 1463
+school
+Ph. D.: Indian Institute of Technology Madras
+Hydrodynamic Instability; Differential Equations; Lie Groups Applications; Dynamical Systems
+V V M S Chandramouli
+Associate Professor
+email
+chsarma[at]iitj[dot]ac[dot]in
+call
+0291 280 1456
+school
+Ph.D.: SUNY at StonyBrook, USA and RUG
+Dynamical Systems, Renormalization Theory, Dynamical Neuroscience
+Anuj Kumar
+Assistant Professor
+email
+anujkumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1476
+school
+Ph.D.: Indiana University Bloomington, USA
+Mathematical Fluid Dynamics, Turbulence
+Bimal Mandal
+Assistant Professor
+email
+bimalmandal[at]iitj[dot]ac[dot]in
+call
+0291 280 1466
+school
+Ph. D.: Indian Institute of Technology Roorkee
+Cryptology, Cryptographic Boolean Functions
+Brahadeesh Sankarnarayanan
+Assistant Professor
+email
+brahadeesh[at]iitj[dot]ac[dot]in
+call
+0291 280 1469
+school
+Ph.D.: Indian Institute of Technology Bombay
+Extremal combinatorics and graph theory
+Kiran Meena
+Assistant Professor
+email
+kiranmeena[at]iitj[dot]ac[dot]in
+call
+0291 280 1467
+school
+Ph.D.: Banaras Hindu University, Varanasi
+Differential Geometry, Riemannian Geometry
+Kriti Goel
+Assistant Professor
+email
+kgoel[at]iitj[dot]ac[dot]in
+call
+0291 280 1479
+school
+Ph.D: Indian Institute of Technology Bombay
+Commutative Algebra and Its Interaction with Combinatorics and Algebraic Geometry
+Kuntal Som
+Assistant Professor
+email
+kuntals[at]iitj[dot]ac[dot]in
+call
+0291 280 1474
+school
+PhD: Indian Institute of Technology Madras
+Mathematical optimization, Set-valued Optimization and Bilevel Programming
+Md Abu Talhamainuddin Ansary
+Assistant Professor
+email
+mdabutalha[at]iitj[dot]ac[dot]in
+call
+0291 280 1465
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Numerical Optimization; Multi-objective Optimization; Interval Analysis
+Moumita Mandal
+Assistant Professor
+email
+moumita[at]iitj[dot]ac[dot]in
+call
+0291 280 1459
+school
+Ph.D.: Indian Institute of Technology Kharagpur
+Numerical Functional Analysis, Integral Equation
+Pradip Sasmal
+Assistant Professor
+email
+psasmal[at]iitj[dot]ac[dot]in
+call
+0291 280 1462
+school
+Ph. D.: Indian Institute of Technology Hyderabad (IITH)
+Frame theory ; Sparse optimization theory ; Reinforcement learning and their applications
+Rajat Gupta
+Assistant Professor
+email
+rgupta[at]iitj[dot]ac[dot]in
+school
+PhD: Indian Institute of Technology Gandhinagar, India
+Analytic Number Theory, q-series, and Combinatorics.
+Rakesh Ratnakar Pawar
+Assistant Professor
+email
+rakeshpawar[at]iitj[dot]ac[dot]in
+call
+0291 280 1477
+school
+Ph.D (Mathematics): Tata Institute of Fundamental Research Mumbai
+Algebraic Geometry, Homotopical methods in Algebraic Geometry and Commutative Algebra
+Sahil Gehlawat
+Assistant Professor
+email
+sahilg[at]iitj[dot]ac[dot]in
+call
+0291 280 1470
+school
+Ph.D. : Indian Institute of Science Bangalore
+Several Complex Variables, Theory of holomorphic foliations.
+Shaily Verma
+Assistant Professor
+email
+shailyverma[at]iitj[dot]ac[dot]in
+call
+0291 280 1475
+school
+Ph.D.: Indian Institute of Technology Delhi
+Graph Algorithms, Parameterized Complexity
+Subhash Bhagat
+Assistant Professor
+email
+sbhagat[at]iitj[dot]ac[dot]in
+call
+0291 280 1468
+school
+Ph. D.: Indian Statistical Institute
+Distributed algorithms for Swarm Robotics, Multi-agent systems, Distributed network algorithms
+Tuhina Mukherjee
+Assistant Professor
+email
+tuhina[at]iitj[dot]ac[dot]in
+call
+0291 280 1464
+school
+Ph. D.: Indian Institute of Technology Delhi
+Analysis of Partial Differential Equations
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Chemistry Faculty ---
+People | Chemistry | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Faculty by Research Area
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Post Graduate Program
+Doctoral Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Events
+Webinar Series
+ChemMeet 2024
+Seminar
+Laboratories
+Teaching Laboratories
+Facilities
+About Facilities
+Booking for Internal Sample
+Booking for External Sample
+Contact
+Chemistry
+Faculty Members
+Ananya Debnath
+Professor
+email
+ananya[at]iitj[dot]ac[dot]in
+call
+0291 280 1307
+school
+Ph.D.: Indian Institute of Science Bangalore
+Theoretical and Computational Chemistry
+Atul Kumar
+Professor
+email
+atulk[at]iitj[dot]ac[dot]in
+call
+0291 280 1304
+school
+Ph.D.: Indian Institute of Technology Madras
+Quantum Information Processing
+Manikandan Paranjothy
+Professor
+email
+pmanikandan[at]iitj[dot]ac[dot]in
+call
+0291 280 1306
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Theoretical and Computational Chemistry, Chemical Reaction Dynamics
+Rakesh Kumar Sharma
+Professor
+email
+rks[at]iitj[dot]ac[dot]in
+call
+0291 280 1303
+school
+Ph.D.: Indian Institute of Science Bangalore
+Catalysis for Energy and Stereocontrol, Feedstock Chemistry, Fuel and Lubricants, Energy Storage and Water Treament Technology
+Samanwita Pal
+Professor
+email
+samanwita[at]iitj[dot]ac[dot]in
+call
+0291 280 1305
+school
+Ph.D.: Indian Institute of Technology Madras
+Solution and solid state NMR and NQR spectroscopy
+Dibyendu Kumar Sasmal
+Associate Professor
+email
+sasmal[at]iitj[dot]ac[dot]in
+call
+0291 280 1314
+school
+Ph.D.: Indian Association for the Cultivation of Science
+Experimental Physical Chemistry, Fluorescence Spectroscopy and Imaging, Biophysical Chemistry
+Nirmal Kumar Rana
+Associate Professor
+email
+nirmalrana[at]iitj[dot]ac[dot]in
+call
+0291 280 1311
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Asymmetric Synthesis & Continuous Flow Chemistry
+Ramesh K Metre
+Associate Professor
+email
+rkmetre[at]iitj[dot]ac[dot]in
+call
+0291 280 1309
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Main-group organometallic chemistry,Coordination polymers,Inorganic-organic hybrid materials and Metal phosphonate and phosphate chemistry
+Rohan D Erande
+Associate Professor
+email
+rd[dot]erande[at]iitj[dot]ac[dot]in
+call
+0291 280 1312
+school
+Ph.D. : Indian Institute of Technology Kanpur
+Synthesis of Natural Products & Medicinally Active Compounds, Method Development - Lewis Acid Catalysis, Organocatalysis, Organometallic Catalysis
+Sandip Murarka
+Associate Professor
+email
+sandipmurarka[at]iitj[dot]ac[dot]in
+call
+0291 280 1310
+school
+Ph.D.: University of Muenster, Germany
+Photoinduced Synthetic Transformations, Electro-organic synthesis, Radical Chemistry, C-H Functionalizations, Transition Metal Catalysis, Medicinal Chemistry
+Koushambi Mitra
+Assistant Professor
+email
+kmitra[at]iitj[dot]ac[dot]in
+call
+0291 280 1349
+school
+PhD: Indian Institute of Science
+Chemical Biology: organic synthesis, quantitative reporters, cell and organism imaging, organelle biology
+Milan Kumar Hazra
+Assistant Professor
+email
+milanhazra[at]iitj[dot]ac[dot]in
+call
+0291 280 1308
+school
+Ph.D: Indian Institute of Science
+Theoretical Physical Chemistry and Computational Biophysics
+Monika Gupta
+Assistant Professor
+email
+mgupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1315
+school
+Ph.D.: Indian Institute of Science Education and Research Mohali
+Functional Organic Materials (Design and Synthesis), Supramolecular Chemistry, Physical Organic Chemistry
+Pragati Pandey
+Assistant Professor
+email
+ppandey[at]iitj[dot]ac[dot]in
+call
+0291 280 1320
+school
+Ph.D.: Indian Institute of Technology Kanpur
+Organometallic and Coordination Chemistry of Rare Earth Elements and their Applications in Functional Molecular Materials, (Photo)catalysis, and Small Molecule Activation
+Rahul Gera
+Assistant Professor
+email
+rahulgera[at]iitj[dot]ac[dot]in
+call
+0291 280 1316
+school
+Ph. D.: Tata Institute of Fundamental Research - Mumbai
+Spectroscopy, Molecular Self-assemblies, Photophysics and Photochemistry
+Shyam Kumar Banjare
+Assistant Professor
+email
+shyambanjare[at]iitj[dot]ac[dot]in
+call
+0291 280 1319
+school
+Ph.D.: National Institute of Science Education and Research (NISER), Bhubaneswar
+Research Interests in Transition Metal Catalysis, N-Heterocyclic Carbene Chemistry, and Organic Synthesis
+Subrata Chakraborty
+Assistant Professor
+email
+subrata[at]iitj[dot]ac[dot]in
+call
+0291 280 1313
+school
+Ph.D.: University of Zurich, Switzerland
+Organometallics, Homogeneous Catalysis
+Suresh Sarkar
+Assistant Professor
+email
+sarkar[at]iitj[dot]ac[dot]in
+call
+0291 280 1346
+school
+Ph.D.: Indian association for the cultivation of Science
+Nanomaterials; NIR-Quantum dots; Spectroscopy; Surface Chemistry; Shape control; Photo-catalysis; photo-voltaics; cell-imaging
+Swati Jindal
+Assistant Professor
+email
+sjindal[at]iitj[dot]ac[dot]in
+call
+0291 280 1317
+school
+Ph.D: Indian Institute of Technology , Kanpur
+Synthetic Materials Chemistry/Hybrid Porous Frameworks (MOFs/COFs)
+Vivek Wakchaure
+Assistant Professor
+email
+vivekwakchaure[at]iitj[dot]ac[dot]in
+call
+0291 280 1318
+school
+Ph.D.: CSIR -National Chemical Laboratory (NCL), Pune, Maharashtra
+Target-Oriented Organic Synthesis; Multispin Molecular Architectures; Spin-Active Organic Materials; Two-Dimensional (2D) Polymers.
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Civil Engineering Faculty ---
+People | Civil and Infrastructure Engineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+Ongoing Projects
+Completed Projects
+Collaborations
+Dissertations
+Journal Publications
+Research Project
+Patents
+MoUs
+Department Data
+Academic Programs
+Programs
+Academic Calendar
+Prospective Students
+Specialization
+Structural Engineering
+Environmental Engineering
+Geotechnical Engineering
+Geological Engineering
+Transportation Engineering
+Computational Laboratory
+Water Resource Engineering Laboratory
+Student
+B.Tech Student
+M.Tech Student
+Ph.D Student
+M.Tech - Ph.D Student
+Alumni
+Contact
+Civil and Infrastructure Engineering
+Faculty Members
+Deepak Swami
+Associate Professor
+email
+dswami[at]iitj[dot]ac[dot]in
+call
+0291 280 1669
+school
+Ph.D Indian Institute of Technology, Roorkee
+Water resources, groundwater flow and contaminant transport modeling, One Health in agriculture, dynamic plant uptake, and parameter estimation
+Deepika Bhattu
+Associate Professor
+email
+dbhattu[at]iitj[dot]ac[dot]in
+call
+0291 280 1654
+school
+Ph.D. (Environmental Engineering): Indian Institute of Technology Kanpur
+Emission sources, characterization and secondary aerosol formation potential; Real-time aerosol measurements using mass spectrometery techniques; Source apportionment techniques; Physical, chemical and hygroscopic properties of atmospheric aerosols and cloud condensation nuclei (CCN) activity
+Ranju Mohan
+Associate Professor
+email
+ranju[at]iitj[dot]ac[dot]in
+call
+0291 280 1657
+school
+PhD. Indian Institute of Technology Madras
+Traffic flow theory; Macroscopic and Microscopic modelling of traffic flow; Connected and autonomous vehicles; Dynamic Traffic Assignment
+Trishikhi Raychoudhury
+Associate Professor
+email
+trishikhi[at]iitj[dot]ac[dot]in
+call
+0291 280 1663
+school
+PhD. McGill University, Canada
+Environmental Engineering: colloid filtration; contaminant fate and transport; water treatment; applications and implications of nanotechnology
+Aali Pant
+Assistant Professor
+email
+aalipant[at]iitj[dot]ac[dot]in
+call
+0291 280 1664
+school
+PhD. Indian Institute of Technology Delhi
+Geotechnical Engineering, Application of Geosynthetics
+Akshay Gupta
+Assistant Professor
+email
+akshaygupta[at]iitj[dot]ac[dot]in
+call
+0291 280 1672
+school
+PhD. : Indian Institute of Technology Roorkee
+Traffic Engineering, Human Factors, Driving Behaviour, Road Safety, ITS and Transit Accessibility
+Amit Kumar Rathi
+Assistant Professor
+email
+akrathi[at]iitj[dot]ac[dot]in
+call
+0291 280 1656
+school
+Ph.D. (Structural Engineering): Indian Institute of Technology Guwahati
+Structural Engineering; RCC Design; Steel Structures and Pre-Engineered Buildings; Reliability Analysis and Design; Uncertainty Quantification; Stochastic Modelling and Mechanics; Composite Materials; Vibration Control and Structural Health Monitoring
+Amit Sharma
+Assistant Professor
+email
+amit[dot]sharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1658
+school
+Ph.D.(Environmental Engineering): Indian Institute of Technology Madras
+Atmospheric Chemistry; Air Pollution; Climate change; Impact on crops and human health
+Anusha S Basavaraj
+Assistant Professor
+email
+anushabasavaraj[at]iitj[dot]ac[dot]in
+call
+0291 280 1676
+school
+PhD: Indian Institute of Technology Madras, Chennai, Tamil Nadu
+Quantitative Sustainability Assessment; Life cycle assessment; Alternative Construction Methods; Low Carbon Construction
+Bhupendra Singh
+Assistant Professor
+email
+bhupendra[at]iitj[dot]ac[dot]in
+call
+0291 280 1659
+school
+PhD. Indian Institute of Technology Roorkee
+Pavement Materials; Pavement Analysis; Pavement Design; Sustainable Pavement Materials
+Debanjan Guha Roy
+Assistant Professor
+email
+dguharoy[at]iitj[dot]ac[dot]in
+call
+0291 280 1653
+school
+Dual-badged PhD. Indian Institute of Technology Bombay and Monash University
+Rock Mechanics; Engineering Geology; Energy Geomechanics; Landslide.
+Mayank Suman
+Assistant Professor
+email
+mayanksuman[at]iitj[dot]ac[dot]in
+call
+0291 280 1665
+school
+PhD. Indian Institute of Technology Kharagpur
+Effect of changing climate on hydrological extremes; Climate change mitigation strategies; Remote sensing application in hydrology
+Monika Dubey
+Assistant Professor
+email
+monikadubey[at]iitj[dot]ac[dot]in
+call
+0291 280 1668
+school
+PhD. Indian Institute of Technology Roorkee
+Water and wastewater treatment; Monitoring and removal of emerging contaminants; Bioremediation; Biotransformation of trace organic pollutants; Risk assessment for water reuse
+P Ravi Prakash
+Assistant Professor
+email
+rp[at]iitj[dot]ac[dot]in
+call
+0291 280 1661
+school
+PhD. Indian Institute of Technology Gandhinagar
+Computational Mechanics; Structural Fire Engineering; Application of AI in Structural Engineering, Building Information Modelling (BIM)
+Pradeep Kumar Dammala
+Assistant Professor
+email
+pkdammala[at]iitj[dot]ac[dot]in
+call
+0291 280 1655
+school
+Ph.D. (Geotechnical Engineering): Indian Institute of Technology Guwahati
+Soil Dynamics, Seismic Soil Liquefaction, Seismic Soil Structure Interaction, Monopile Foundations, Sand Dune Dynamics, Computational Fluid Dynamics, Sustainable Geotechnics
+Sanhita Das
+Assistant Professor
+email
+sanhitadas[at]iitj[dot]ac[dot]in
+call
+0291 280 1666
+school
+PhD. Indian Institute of Science Bangalore
+Computational Mechanics; Constitutive Modelling; Smart Materials; Amorphous Materials
+Saran Aadhar
+Assistant Professor
+email
+saran[dot]aadhar[at]iitj[dot]ac[dot]in
+call
+0291 280 1662
+school
+PhD. Indian Institute of Technology Gandhinagar
+Surface Hydrology; Hydroclimatic extremes; Hydrologic modeling in natural and anthropogenic climate; Impact of climate variability and climate change on water resources
+Sarath Chandra Reddy Nallala
+Assistant Professor
+email
+scnallala[at]iitj[dot]ac[dot]in
+call
+0291 280 1675
+school
+PhD (Geotechnical Engineering) : City University of Hong Kong
+Multiscale mechanics of granular materials with emphasis on experimental micromechanics, discrete element modelling, laboratory validation of particle-scale simulations, and tribological behavior of geomaterials, with applications in geotechnical and geological engineering.
+Shuvajit Mukherjee
+Assistant Professor
+email
+shuvajit[at]iitj[dot]ac[dot]in
+call
+0291 280 1671
+school
+PhD. Indian Institute of Science Bengaluru
+Metamaterials; Wave propagation; Computational mechanics; Sandwich composites
+Sreejith Krishnan
+Assistant Professor
+email
+skrishnan[at]iitj[dot]ac[dot]in
+call
+0291 280 1670
+school
+PhD. Indian Institute of Technology Delhi
+Material Characterization; Cement Chemistry; Concrete Technology; Durability and Repair of Structures;
+Subham Jain
+Assistant Professor
+email
+sjain[at]iitj[dot]ac[dot]in
+call
+0291 280 1673
+school
+Ph.D: Indian Institute of Technology, Kanpur
+Pavement functional evaluation, Aggregate shape characterization
+Tekcham Gishan Singh
+Assistant Professor
+email
+tekcham[at]iitj[dot]ac[dot]in
+call
+0291 280 1660
+school
+PhD. Indian Institute of Technology Guwahati
+Steel structure testing and design, high-strength steel, tubular and thin-walled structures, concrete-filled steel tubes, fire-resistant structural design, steel corrosion and retrofitting, sustainable infrastructure.
+Yogiraj Sargam
+Assistant Professor
+email
+ysargam[at]iitj[dot]ac[dot]in
+call
+0291 280 1674
+school
+Ph.D. Iowa State University, USA
+Carbon Capture, Utilization, and Storage (CCUS), Waste valorization, Nanomaterials, Cement-based materials
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Bioscience Faculty ---
+People | Bioscience & Bioengineering | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+People
+Recruitment
+About Recruitment
+Faculty Members
+Post Doctoral Fellows
+Technical Staff Members
+Project Staff Members
+Research
+Publication
+About Research
+Ongoing Projects
+Completed Projects
+Collaborations
+Academic Programs
+Undergraduate Program
+Postgraduate Program
+Doctorial Program
+Curriculum
+Courses
+Program Structure
+Regulations
+Laboratories
+Contact
+Bioscience & Bioengineering
+Faculty Members
+Amit Kumar Mishra
+Professor
+email
+amit[at]iitj[dot]ac[dot]in
+call
+0291 280 1206
+school
+Ph.D.: National Brain Research Centre
+Cellular and Molecular Neuroscience, Cell Cycle Regulation and Cancer
+Meenu Chhabra
+Professor
+email
+meenuchhabra[at]iitj[dot]ac[dot]in
+call
+0291 280 1205
+school
+PhD. Indian Institute of Technology Delhi
+Biological Science & Bio-Engineering: Renewable Bioenergy Bioremediation
+Mitali Mukerji
+Professor
+email
+mitali[at]iitj[dot]ac[dot]in
+call
+0291 280 1217
+school
+PhD. Indian Institute of Science, Bangalore
+Genomics, Human molecular genetics, functional genomics of Alu repeats, Ayurgenomics, genetics of rare diseases
+Surajit Ghosh
+Professor
+email
+sghosh[at]iitj[dot]ac[dot]in
+call
+0291 280 1212
+school
+PhD. Indian Institute of Technology Kanpur
+Chemical Neurobiology, Chemical Biology and Cancer Biology
+Sushmita Jha
+Professor
+email
+sushmitajha[at]iitj[dot]ac[dot]in
+call
+0291 280 1204
+school
+PhD (Cell and Molecular Physiology), University of North Carolina at Chapel Hill, USA
+Cell and Molecular Physiology, Immunology, and Neuroscience
+Indranil Banerjee
+Associate Professor
+email
+indranil[at]iitj[dot]ac[dot]in
+call
+0291 280 1214
+school
+Ph. D.: Indian Institute of Technology Kharagpur
+Tissue engineering; Regenerative medicine; Biomaterials; Theranostic systems; Bio microfluidic
+Neha Jain
+Associate Professor
+email
+njain[at]iitj[dot]ac[dot]in
+call
+0291 280 1210
+school
+PhD. Indian Institute of Science Education and Research Mohali
+Amyloids, Biofilms, Neurodegeneration, Molecular Biophysics, Microbiology
+Pankaj Yadav
+Associate Professor
+email
+pyadav[at]iitj[dot]ac[dot]in
+call
+0291 280 1211
+school
+PhD. Christian Albrechts Universität zu Kiel Germany
+Statistical Genetics, Deep Learning, Big Data Analytics
+Priyanka Singh
+Associate Professor
+email
+priyankasingh[at]iitj[dot]ac[dot]in
+call
+0291 280 1208
+school
+PhD. University of Muenster
+Cellular & Molecular Biology
+Raviraj Vankayala
+Associate Professor
+email
+rvankayala[at]iitj[dot]ac[dot]in
+call
+0291 280 1215
+school
+PhD. National Tsing Hua University
+Nanobiotechnology; Biomaterials; Drug Delivery; Theranostics; Photomedicine
+Shankar Manoharan
+Associate Professor
+email
+shankarmanoharan[at]iitj[dot]ac[dot]in
+call
+0291 280 1209
+school
+Ph. Madurai Kamaraj University
+Molecular Microbiology, Host-Microbe Interaction, Genomics and Metagenomics
+Sudipta Bhattacharyya
+Associate Professor
+email
+sudipta[at]iitj[dot]ac[dot]in
+call
+0291 280 1213
+school
+PhD. Indian Institute of Technology Kharagpur
+Structural Biology, Enzyme Chemistry, Protein Engineering
+Ayan Sadhukhan
+Assistant Professor
+email
+ayansadhukhan[at]iitj[dot]ac[dot]in
+call
+0291 280 1221
+school
+Phd. Indian Institute of Technology Guwahati
+Plant Functional Genomics, Biotechnology, Population Genetics, Abiotic Stress Tolerance
+Dinesh Ahirwar
+Associate Professor
+email
+dineshahirwar[at]iitj[dot]ac[dot]in
+call
+0291 280 1222
+school
+Phd. Sanjay Gandhi Postgraduate Institute of Medical Sciences
+Host-tumor interaction, Drug resistance, Immunotherapy
+Sucharita Dey
+Assistant Professor
+email
+sdey[at]iitj[dot]ac[dot]in
+call
+0291 280 1218
+school
+PhD. Bose Institute Kolkata
+Principles of protein robustness to mutation, Functional role of protein quaternary structure in mutation and disease, Prediction of disease mutations, Identifying structural determinants of inter-subunit communication -- Allostery
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- AI & Data Science Faculty ---
+People | School of Artificial Intelligence & Data Science | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+About SAIDE
+Mission & Vision
+AI & DS Ecosystem
+Outreach
+Administration
+Campus
+FAQs
+Academics
+PhD
+MS by Program
+MTech
+BTech
+Executive Programs
+Courses
+Research
+About Research
+Themes
+Projects
+Publications
+Facilities & Labs
+CoEs
+About CoEs
+Centre for Brain Science and Application
+Centre for Mathematical and Computational Economics
+Centre for Intelligent Infrastructure
+Center for Excellence in AI based Precision Healthcare
+Centre for Excellence in AyurTech
+People
+Faculty
+Students
+Alumni
+Directory
+Join Us
+Admissions
+Project Positions
+Postdoc Positions
+Internship Programs
+Faculty Positions
+Contact
+School of Artificial Intelligence & Data Science
+Core Faculty Members
+Dipanjan Roy
+Professor  Artificial Intelligence and Data Science
+email
+droy[at]iitj[dot]ac[dot]in
+call
+0291 280 1757
+Aging, Neurodevelopment using fMRI, EEG, MEG, Attention, Emotion, Perception, Working memory , Brain Connectivity, Brain-Inspired AI , Brain Stimulation, Computational Neuroscience
+Manish Aggarwal
+Associate Professor  Artificial Intelligence and Data Science
+email
+ma[at]iitj[dot]ac[dot]in
+call
+0291 280 1811
+Uncertainty and Preferences in Machine Learning, Human Decision Making, Explainable AI, Green Energy
+Abhinaba Lahiri
+Assistant Professor Artificial Intelligence and Data Science
+email
+abhinaba[at]iitj[dot]ac[dot]in
+call
+0291 280 1756
+Mechanism Design, Social Choice Theory, Game Theory
+Bhivraj Suthar
+Assistant Professor Artificial Intelligence and Data Science
+email
+bhivraj[at]iitj[dot]ac[dot]in
+call
+0291 280 1764
+Bio-inspired Robotics, Brain Robot Interface, Medical Robotics, Artificial Intelligence
+Bikash Santra
+Assistant Professor  Artificial Intelligence and Data Science
+email
+bikash[at]iitj[dot]ac[dot]in
+call
+0291 280 1763
+Computer Vision , Medical Image Analysis, Machine Learning, Deep Learning
+Deeksha Varshney
+Assistant Professor Artificial Intelligence and Data Science
+email
+deeksha[at]iitj[dot]ac[dot]in
+call
+0291 280 1766
+Natural Language Processing, Dialogue Systems, Reasoning and Interpretability in LLMs, SLMs, NLP for healthcare and climate, Multilingual LLMs
+Divya Saxena
+Assistant Professor Artificial Intelligence and Data Science
+email
+divyasaxena[at]iitj[dot]ac[dot]in
+call
+0291 280 1761
+Generative AI, Efficient Deep Learning, Continual Learning, and Edge AI
+Dweepobotee Brahma
+Assistant Professor Artificial Intelligence and Data Science
+email
+dweepobotee[at]iitj[dot]ac[dot]in
+call
+0291 280 1755
+Econometrics, Machine Learning, Health Economics, Development Economics
+Navchetan Awasthi
+Assistant Professor Artificial Intelligence and Data Science
+email
+navchetanawasthi[at]iitj[dot]ac[dot]in
+call
+0291 280 1768
+Artificial Intelligence for Medical Imaging, Inverse problems in imaging, Medical image processing (reconstruction/analysis), Computational methods in medical imaging, Biomedical Optics, Ultrasound Imaging, Medical informatics
+S Srivatsa Srinivas
+Assistant Professor Artificial Intelligence and Data Science
+email
+srivatsa[at]iitj[dot]ac[dot]in
+call
+0291 280 1754
+school
+M.S. + Ph.D., Applied Game Theory and Operations Research, Indian Institute of Technology Madras
+school
+B.E., Industrial Engineering, College of Engineering, Guindy
+Applied Game Theory and Operations Research, Service Operations, Policy Analytics
+Shilpa Dang
+Assistant Professor Artificial Intelligence and Data Science
+email
+sdang[at]iitj[dot]ac[dot]in
+call
+0291 280 1758
+Computational Cognitive Neuroscience , Connectomics
+Sidharth Ranjan
+Assistant Professor Artificial Intelligence and Data Science
+email
+sranjan[at]iitj[dot]ac[dot]in
+call
+0291 280 1767
+Natural Language Processing, Computational Psycholinguistics, Cognitive Science, Human Decision Making, Artificial Intelligence
+Vignesh Muralidharan
+Assistant Professor Artificial Intelligence and Data Science
+email
+vigneshmdharan[at]iitj[dot]ac[dot]in
+call
+0291 280 1753
+Cognitive neuroscience of action control, Computational neuroscience, Impulse control disorders, Brain-computer interfaces
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward
+
+--- Liberal Arts Faculty ---
+People | School of Liberal Arts | IIT Jodhpur
+###147852369$$$_RedirectToLoginPage_%%%963258741!!!
+हिन्दी  |
+Sitemap
+Home
+Centers of Excellence
+Center of Excellence on Arts and Digital Immersion (ADI)
+Academic Programs
+Undergraduate Courses
+Postgraduate Program - Computational Social Science (MSc)
+Doctoral Program
+Laboratories
+Digital Language Laboratory
+Psychology Lab
+Research
+Projects
+People
+Students
+MSc Students
+PhD Scholars
+Alumni
+Student Achievements Archive
+Newsletter
+Contact
+School of Liberal Arts
+Faculty Members
+Ankita Sharma
+Professor
+email
+ankitasharma[at]iitj[dot]ac[dot]in
+call
+0291 280 1406
+school
+Banaras Hindu University
+Psychology: Gerontology, Clinical and Positive Psychology
+V Hari Narayanan
+Professor
+email
+hari[at]iitj[dot]ac[dot]in
+call
+0291 280 1405
+school
+Indian Institute of Technology Kanpur
+Philosophy: Cognitive Studies, Evolutionary Theory, Analytic Philosophy and Mindfulness
+Alok Ranjan
+Associate Professor
+email
+alok[at]iitj[dot]ac[dot]in
+call
+0291 280 1414
+school
+Tata Institute of Social Sciences, Mumbai
+Public Health, Universal Health Coverage, Health Systems, Health Economics, Health Equity, Elderly Health, Non-Communicable Diseases, Disability & Rehabilitation
+Anupama Mohan
+Associate Professor
+email
+amohan[at]iitj[dot]ac[dot]in
+call
+0291 280 1419
+school
+University of Toronto
+Indian Ocean Studies; Working class literature; Transmodernity and Literature; Environmental Humanities; History of Ideas
+Farhat Naz
+Associate Professor
+email
+farhat[at]iitj[dot]ac[dot]in
+call
+0291 280 1411
+school
+University of Bonn, Germany
+Natural Resource Management; Water Governance; Climate Change, Disaster Risk Reduction, Gender
+K J George
+Associate Professor
+email
+kjg[at]iitj[dot]ac[dot]in
+call
+0291 280 1404
+school
+Indian Institute of Technology Kanpur
+Philosophy: Applied Ethics, Ethics of Technology, Bioethics
+Suman Dhaka
+Associate Professor
+email
+dhakas[at]iitj[dot]ac[dot]in
+call
+0291 280 1415
+school
+Indian Institute of Technology Guwahati
+Cognitive Neuroscience, Cognitive Psychology; Sleep and Cognition
+Vidya Sarveswaran
+Associate Professor
+email
+vs[at]iitj[dot]ac[dot]in
+school
+PhD From IIT Madras
+Environmental Humanities, Environment and Culture, Environment and Heritage and Blue Humanities.
+Akanksha Choudhary
+Assistant Professor
+email
+akanksha[at]iitj[dot]ac[dot]in
+call
+0291 280 1413
+school
+IIT Bombay
+Development Economics, Education and Health Economics, Unfair inequalities, Public Policy and Gender Studies
+Bhaskar Kumar Kakati
+Assistant Professor
+email
+bhaskar[at]iitj[dot]ac[dot]in
+call
+02912801427
+school
+Tata Institute of Social Sciences, Guwahati campus
+Sociology of Rural Development, Appropriate Technology and Sustainability, Local Governance, Tribal Studies, Folk Theatre
+Dinesh Mohan Joshi
+Assistant Professor
+email
+dineshjoshi[at]iitj[dot]ac[dot]in
+call
+0291 280 1420
+school
+Indian Institute of Technology, Bombay
+Indian Mathematics, Indian Astronomy, Manuscriptology
+Gopakumar K U
+Assistant Professor
+email
+gopakumar[at]iitj[dot]ac[dot]in
+call
+0291 280 1421
+school
+Sri Sathya Sai Institute of Higher Learning, Andhra Pradesh
+Macroeconomic Theory and Policy, Structural Macroeconomic Modelling, Time Series Econometrics, Development Studies
+Gurujegan Murugesan
+Assistant Professor
+email
+gurujeganm[at]iitj[dot]ac[dot]in
+call
+0291 280 1409
+school
+University of Leipzig, Germany
+Theoretical/Formal Linguistics, Syntax.
+Kanak Yadav
+Assistant Professor
+email
+kanakyadav[at]iitj[dot]ac[dot]in
+call
+0291 280 1426
+school
+Jawaharlal Nehru University, New Delhi
+Literature and Cities, Dalit Literature, Indian English Writing and the Postcolonial Anglophone Novel
+Natasa Thoudam
+Assistant Professor
+email
+nthoudam[at]iitj[dot]ac[dot]in
+call
+0291 280 1417
+school
+Indian Institute of Technology Bombay
+Literary Studies, Gender Studies, Religious Studies, Comic Studies, Performance Studies, Digital Humanities and their intersections focused on India's Northeast (Manipur)
+Parichay Patra
+Assistant Professor
+email
+parichay[at]iitj[dot]ac[dot]in
+call
+0291 280 1410
+school
+Monash University Australia
+Film Studies: Transnational Cinema, Indian New Wave, The Global 1968, Film Aesthetics
+Prasenjeet A Tribhuvan
+Assistant Professor
+email
+prasenjeet[at]iitj[dot]ac[dot]in
+call
+0291 280 1408
+school
+Delhi School of Economics, University of Delhi
+Anthropology of Material Objects, STS studies in Sociology, Political Ecology, Tourism and Youth Subcultures
+Rachel Philip
+Assistant Professor
+email
+rachel[at]iitj[dot]ac[dot]in
+call
+0291 280 1412
+school
+Central Institute of Education, University of Delhi
+Sociology of Education; Education Policy; Childhood Studies; Social Stratification; Science, Technology, Society Studies
+Sherin Sabu
+Assistant Professor
+email
+sherinsabu[at]iitj[dot]ac[dot]in
+call
+0291 280 1422
+school
+Indian Institute of Technology, Bombay
+Sensory anthropology; Gender Studies; New kinship studies; Sociology of language
+Soni
+Assistant Professor
+email
+soni[at]iitj[dot]ac[dot]in
+call
+0291 280 1429
+school
+ETH Zurich
+Modern South Asian History: Childhood, Youth and Gender History; History of Education; Postcolonial and Decolonial History; History of Emotions.
+Souryabrata Mohapatra
+Assistant Professor
+email
+smohapatra[at]iitj[dot]ac[dot]in
+call
++91 (0) 291 280 1428
+school
+Ph.D.: University of Auckland
+Economics of climate change, sustainable agriculture, green transitions, equitable migration, and rural resilience.
+Sreedevi D
+Assistant Professor
+email
+sreedevid[at]iitj[dot]ac[dot]in
+call
+0291 280 1418
+school
+Jawaharlal Nehru University, New Delhi
+Sensory Studies; Literary and Critical Theory; Senses and Writing; Touch and Aesthetics
+Sunil Kumar Lohar
+Assistant Professor
+email
+sunillohar[at]iitj[dot]ac[dot]in
+call
+0291 280 1424
+school
+International Institute of Information Technology Hyderabad
+Visual Arts, Indian Folk Paintings, Aesthetics, Communication Design, and Formal Theories of Arts
+Tonisha Guin
+Assistant Professor
+email
+tonisha[at]iitj[dot]ac[dot]in
+call
+0291 280 1407
+school
+The English and Foreign Languages University, Hyderabad
+Knowledge systems in Global South, Decoloniality, Identity Studies, Space Studies, New Media Issues
+Important links
+CCCD @ IITJ
+Recruitment
+Correspondence
+RTI
+Tenders
+Techscape
+Contact
+Old Website
+NCCR Portal
+How To Reach IITJ
+Institute Repository
+Donations
+Web Policy
+Web Information Manager
+Feedback
+CERT-IN
+Help
+NIRF
+Internal Committee
+Intranet Links
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by
+Digital Infrastructure & Automation
+, IIT Jodhpur.
+N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the
+WIM
+Last Updated : 03 Jun 2026 - 05:26 PM
+arrow_downward

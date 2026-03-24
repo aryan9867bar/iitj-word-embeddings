@@ -1,0 +1,65 @@
+Model,Analogy,Rank,Answer,Similarity
+CBOW (Scratch),UG : BTech :: PG : ?,1,gaurav,-0.438
+CBOW (Scratch),UG : BTech :: PG : ?,2,indian,-0.6916
+CBOW (Scratch),UG : BTech :: PG : ?,3,iit,-0.7067
+CBOW (Scratch),UG : BTech :: PG : ?,4,jodhpur,-0.7101
+CBOW (Scratch),UG : BTech :: PG : ?,5,institute,-0.7123
+CBOW (Scratch),Student : Study :: Faculty : ?,1,technology,0.9589
+CBOW (Scratch),Student : Study :: Faculty : ?,2,kanpur,0.9514
+CBOW (Scratch),Student : Study :: Faculty : ?,3,bombay,0.9486
+CBOW (Scratch),Student : Study :: Faculty : ?,4,kharagpur,0.9428
+CBOW (Scratch),Student : Study :: Faculty : ?,5,madras,0.9427
+CBOW (Scratch),Department : HOD :: Institute : ?,-,MISSING: ['hod'],-
+CBOW (Scratch),BTech : Undergraduate :: PhD : ?,1,ph,0.9985
+CBOW (Scratch),BTech : Undergraduate :: PhD : ?,2,kumar,0.9974
+CBOW (Scratch),BTech : Undergraduate :: PhD : ?,3,associate,0.9969
+CBOW (Scratch),BTech : Undergraduate :: PhD : ?,4,ranjan,0.9942
+CBOW (Scratch),BTech : Undergraduate :: PhD : ?,5,gupta,0.9921
+CBOW (Gensim),UG : BTech :: PG : ?,1,visit,0.9936
+CBOW (Gensim),UG : BTech :: PG : ?,2,related,0.9935
+CBOW (Gensim),UG : BTech :: PG : ?,3,mba,0.9933
+CBOW (Gensim),UG : BTech :: PG : ?,4,kb,0.9932
+CBOW (Gensim),UG : BTech :: PG : ?,5,accounts,0.9932
+CBOW (Gensim),Student : Study :: Faculty : ?,1,people,0.9508
+CBOW (Gensim),Student : Study :: Faculty : ?,2,adjunct,0.9389
+CBOW (Gensim),Student : Study :: Faculty : ?,3,members,0.9389
+CBOW (Gensim),Student : Study :: Faculty : ?,4,career,0.9298
+CBOW (Gensim),Student : Study :: Faculty : ?,5,fellows,0.9267
+CBOW (Gensim),Department : HOD :: Institute : ?,-,MISSING: ['hod'],-
+CBOW (Gensim),BTech : Undergraduate :: PhD : ?,1,admission,0.9813
+CBOW (Gensim),BTech : Undergraduate :: PhD : ?,2,programs,0.9792
+CBOW (Gensim),BTech : Undergraduate :: PhD : ?,3,admissions,0.9778
+CBOW (Gensim),BTech : Undergraduate :: PhD : ?,4,links,0.9741
+CBOW (Gensim),BTech : Undergraduate :: PhD : ?,5,curriculum,0.9738
+Skip-gram (Scratch),UG : BTech :: PG : ?,1,bs,0.9437
+Skip-gram (Scratch),UG : BTech :: PG : ?,2,doctor,0.933
+Skip-gram (Scratch),UG : BTech :: PG : ?,3,links,0.9294
+Skip-gram (Scratch),UG : BTech :: PG : ?,4,bridge,0.9275
+Skip-gram (Scratch),UG : BTech :: PG : ?,5,jam,0.924
+Skip-gram (Scratch),Student : Study :: Faculty : ?,1,people,0.7102
+Skip-gram (Scratch),Student : Study :: Faculty : ?,2,advances,0.6718
+Skip-gram (Scratch),Student : Study :: Faculty : ?,3,arts,0.6669
+Skip-gram (Scratch),Student : Study :: Faculty : ?,4,liberal,0.651
+Skip-gram (Scratch),Student : Study :: Faculty : ?,5,published,0.6343
+Skip-gram (Scratch),Department : HOD :: Institute : ?,-,MISSING: ['hod'],-
+Skip-gram (Scratch),BTech : Undergraduate :: PhD : ?,1,events,0.8677
+Skip-gram (Scratch),BTech : Undergraduate :: PhD : ?,2,enrolled,0.8641
+Skip-gram (Scratch),BTech : Undergraduate :: PhD : ?,3,session,0.8607
+Skip-gram (Scratch),BTech : Undergraduate :: PhD : ?,4,graduate,0.8587
+Skip-gram (Scratch),BTech : Undergraduate :: PhD : ?,5,encouraged,0.8586
+Skip-gram (Gensim),UG : BTech :: PG : ?,1,joint,0.9821
+Skip-gram (Gensim),UG : BTech :: PG : ?,2,mba,0.9792
+Skip-gram (Gensim),UG : BTech :: PG : ?,3,range,0.9789
+Skip-gram (Gensim),UG : BTech :: PG : ?,4,encouraged,0.9772
+Skip-gram (Gensim),UG : BTech :: PG : ?,5,prospective,0.9743
+Skip-gram (Gensim),Student : Study :: Faculty : ?,1,adjunct,0.8613
+Skip-gram (Gensim),Student : Study :: Faculty : ?,2,join,0.8571
+Skip-gram (Gensim),Student : Study :: Faculty : ?,3,gaurav,0.8568
+Skip-gram (Gensim),Student : Study :: Faculty : ?,4,us,0.8492
+Skip-gram (Gensim),Student : Study :: Faculty : ?,5,positions,0.8418
+Skip-gram (Gensim),Department : HOD :: Institute : ?,-,MISSING: ['hod'],-
+Skip-gram (Gensim),BTech : Undergraduate :: PhD : ?,1,philosophy,0.7326
+Skip-gram (Gensim),BTech : Undergraduate :: PhD : ?,2,structure,0.7244
+Skip-gram (Gensim),BTech : Undergraduate :: PhD : ?,3,postgraduate,0.7233
+Skip-gram (Gensim),BTech : Undergraduate :: PhD : ?,4,admission,0.7009
+Skip-gram (Gensim),BTech : Undergraduate :: PhD : ?,5,selected,0.6926

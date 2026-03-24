@@ -1,0 +1,9 @@
+Model,Implementation,Dim,Window,Neg,Avg Top-5 Sim,Time (s)
+CBOW,Scratch,50,5,10,0.9908,62.91
+CBOW,Gensim,50,5,10,0.9908,0.26
+Skip-gram,Scratch,50,5,10,0.7681,304.17
+Skip-gram,Gensim,50,5,10,0.8884,0.67
+CBOW,Scratch,100,5,10,0.9933,62.52
+CBOW,Gensim,100,5,10,0.9946,0.21
+Skip-gram,Scratch,100,5,10,0.769,330.54
+Skip-gram,Gensim,100,5,10,0.8949,0.71
