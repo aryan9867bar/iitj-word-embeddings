@@ -1,8 +1,13 @@
 # Assignment 2 Problem 1: Learning Word Embeddings from IIT Jodhpur Data
 
+---
+
 **Author:** Aryan Baranwal
-**Course:** Natural Language Understanding  
+
+**Course:** Natural Language Understanding 
+
 **Date:** March 2026
+---
 
 ### Objective
 Train Word2Vec models (CBOW and Skip-gram) on textual data collected from IIT Jodhpur sources and analyze the semantic structure captured by the learned embeddings.
@@ -112,10 +117,11 @@ Avg Sentence Length:   19.52 tokens
 **Top 20 most frequent words** include *professor*, *student*,
 *institute*, *engineering*, *research*, *program*, etc.
 
+---
+
 ### Word Cloud
 
-![Word Cloud](../outputs/wordcloud.png)
-
+![Word Cloud](outputs/wordcloud.png)
 *Figure 1: Word cloud illustrating the most frequent words in the
 corpus.*
 
@@ -282,32 +288,32 @@ models, and for CBOW vs skip‑gram.
 
 ### PCA Plots
 
-![PCA CBOW Scratch](../outputs/pca_cbow_scratch.png)
+![PCA CBOW Scratch](outputs/pca_cbow_scratch.png)
 *Figure 2: PCA projection for CBOW (scratch implementation).*  
 
-![PCA CBOW Gensim](../outputs/pca_cbow_gensim.png)
+![PCA CBOW Gensim](outputs/pca_cbow_gensim.png)
 *Figure 3: PCA projection for CBOW (Gensim).*  
 
 ### t-SNE Plots
 
-![t-SNE CBOW Scratch](../outputs/tsne_cbow_scratch.png)
+![t-SNE CBOW Scratch](outputs/tsne_cbow_scratch.png)
 *Figure 4: t-SNE projection for CBOW (scratch).*  
 
-![t-SNE CBOW Gensim](../outputs/tsne_cbow_gensim.png)
+![t-SNE CBOW Gensim](outputs/tsne_cbow_gensim.png)
 *Figure 5: t-SNE projection for CBOW (Gensim).*  
 
 ### Skip-gram Plots
 
-![PCA Skip-gram Scratch](../outputs/pca_skip-gram_scratch.png)
+![PCA Skip-gram Scratch](outputs/pca_skip-gram_scratch.png)
 *Figure 6: PCA projection for Skip-gram (scratch).*  
 
-![PCA Skip-gram Gensim](../outputs/pca_skip-gram_gensim.png)
+![PCA Skip-gram Gensim](outputs/pca_skip-gram_gensim.png)
 *Figure 7: PCA projection for Skip-gram (Gensim).*  
 
-![t-SNE Skip-gram Scratch](../outputs/tsne_skip-gram_scratch.png)
+![t-SNE Skip-gram Scratch](outputs/tsne_skip-gram_scratch.png)
 *Figure 8: t-SNE projection for Skip-gram (scratch).*  
 
-![t-SNE Skip-gram Gensim](../outputs/tsne_skip-gram_gensim.png)
+![t-SNE Skip-gram Gensim](outputs/tsne_skip-gram_gensim.png)
 *Figure 9: t-SNE projection for Skip-gram (Gensim).*  
 
 ### Performance Curves
@@ -316,10 +322,10 @@ To evaluate the convergence and efficiency of the models, we recorded
 the training loss per epoch and the total training time for the best
 performing configurations.
 
-![Training Loss Curves](../outputs/training_loss_curves.png)
+![Training Loss Curves](outputs/training_loss_curves.png)
 *Figure 10: Training loss curves for best scratch and Gensim models.*
 
-![Training Time Comparison](../outputs/training_time_comparison.png)
+![Training Time Comparison](outputs/training_time_comparison.png)
 *Figure 11: Comparison of average training time (Scratch vs Gensim).*
 
 ### Interpretation
@@ -364,6 +370,8 @@ near each other.
 - Visualization highlights how different architectures and libraries
   affect clustering; both implementations successfully separated academic
   departments from student-related terms.
+
+---
 
 ## Conclusion
 
